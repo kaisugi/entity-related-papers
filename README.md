@@ -181,7 +181,6 @@
 - [Multi-step Entity-centric Information Retrieval for Multi-Hop Question Answering](https://www.aclweb.org/anthology/D19-5816/)
 - [Cross-lingual Joint Entity and Word Embedding to Improve Entity Linking and Parallel Sentence Mining](https://www.aclweb.org/anthology/D19-6107/)
 - [Towards Zero-resource Cross-lingual Entity Linking](https://www.aclweb.org/anthology/D19-6127/)
-
 ### [CoNLL 2019](https://www.aclweb.org/anthology/events/conll-2019/)
 
 - [Learning a Unified Named Entity Tagger from Multiple Partially Annotated Corpora for Efficient Adaptation](https://www.aclweb.org/anthology/K19-1048/)
