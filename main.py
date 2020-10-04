@@ -33,11 +33,10 @@ urls = [
     ("CoNLL 2016", "https://www.aclweb.org/anthology/events/conll-2016/"),
     ("LREC 2016", "https://www.aclweb.org/anthology/events/lrec-2016/"),
     ("PACLIC 2016", "https://www.aclweb.org/anthology/events/paclic-2016/"),
-    ("ACL 2015", "https://www.aclweb.org/anthology/events/acl-2015/"),
+    ("ACL-IJCNLP 2015", "https://www.aclweb.org/anthology/events/acl-2015/"),
     ("TACL 2015", "https://www.aclweb.org/anthology/events/tacl-2015/"),
     ("NAACL 2015", "https://www.aclweb.org/anthology/events/naacl-2015/"),
     ("EMNLP 2015", "https://www.aclweb.org/anthology/events/emnlp-2015/"),
-    ("IJCNLP 2015", "https://www.aclweb.org/anthology/events/ijcnlp-2015/"),
     ("CoNLL 2015", "https://www.aclweb.org/anthology/events/conll-2015/"),
     ("PACLIC 2015", "https://www.aclweb.org/anthology/events/paclic-2015/")
 ]

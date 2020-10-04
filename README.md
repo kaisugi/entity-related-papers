@@ -657,7 +657,7 @@
 
 #### misc
 - [Neural Joint Learning for Classifying Wikipedia Articles into Fine-grained Named Entity Types](https://www.aclweb.org/anthology/Y16-3027/)
-### [ACL 2015](https://www.aclweb.org/anthology/events/acl-2015/)
+### [ACL-IJCNLP 2015](https://www.aclweb.org/anthology/events/acl-2015/)
 
 
 #### NER
@@ -731,28 +731,6 @@
 - [Corpus-level Fine-grained Entity Typing Using Contextual Information](https://www.aclweb.org/anthology/D15-1083/)
 - [FINET: Context-Aware Fine-Grained Named Entity Typing](https://www.aclweb.org/anthology/D15-1103/)
 - [ERSOM: A Structural Ontology Matching Approach Using Automatically Learned Entity Representation](https://www.aclweb.org/anthology/D15-1289/)
-### [IJCNLP 2015](https://www.aclweb.org/anthology/events/ijcnlp-2015/)
-
-
-#### NER
-- [Improving Named Entity Recognition in Tweets via Detecting Non-Standard Words](https://www.aclweb.org/anthology/P15-1090/)
-- [Cross-lingual Transfer of Named Entity Recognizers without Parallel Corpora](https://www.aclweb.org/anthology/P15-2064/)
-
-#### EL
-- [S-MART: Novel Tree-based Structured Learning Algorithms Applied to Tweet Entity Linking](https://www.aclweb.org/anthology/P15-1049/)
-- [Sieve-Based Entity Linking for the Biomedical Domain](https://www.aclweb.org/anthology/P15-2049/)
-- [Visual Error Analysis for Entity Linking](https://www.aclweb.org/anthology/P15-4007/)
-
-#### misc
-- [Low-Rank Regularization for Sparse Conjunctive Feature Spaces: An Application to Named Entity Classification](https://www.aclweb.org/anthology/P15-1013/)
-- [Generative Event Schema Induction with Entity Disambiguation](https://www.aclweb.org/anthology/P15-1019/)
-- [Entity Retrieval via Entity Factoid Hierarchy](https://www.aclweb.org/anthology/P15-1050/)
-- [Learning to Explain Entity Relationships in Knowledge Graphs](https://www.aclweb.org/anthology/P15-1055/)
-- [Context-aware Entity Morph Decoding](https://www.aclweb.org/anthology/P15-1057/)
-- [Entity Hierarchy Embedding](https://www.aclweb.org/anthology/P15-1125/)
-- [Entity-Centric Coreference Resolution with Model Stacking](https://www.aclweb.org/anthology/P15-1136/)
-- [Embedding Methods for Fine Grained Entity Type Classification](https://www.aclweb.org/anthology/P15-2048/)
-- [NEED4Tweet: A Twitterbot for Tweets Named Entity Extraction and Disambiguation](https://www.aclweb.org/anthology/P15-4006/)
 ### [CoNLL 2015](https://www.aclweb.org/anthology/events/conll-2015/)
 
 
