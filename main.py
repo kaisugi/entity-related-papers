@@ -46,6 +46,9 @@ txt = "# entity-related-papers\n\n"
 
 for name, url in urls:
     t = f"### [{name}]({url})\n\n"
+    t_rec = "\n#### NER\n"
+    t_link = "\n#### EL\n"
+    t_others = "\n#### misc\n"
 
     r = requests.get(url)
     soup = BeautifulSoup(r.text, 'lxml')
@@ -57,10 +60,19 @@ for name, url in urls:
         link = res.get('href')
         text = res.get_text()
 
-        index = text.find("Entity")
-        if index != -1:
-            t += f"- [{text}](https://www.aclweb.org{link})\n"
+        index = "Entity" in text or "entity" in text
+        index_rec = "Recogn" in text or "recogn" in text
+        index_link = "Link" in text or "link" in text
 
+        if index:
+            if index_rec:
+                t_rec += f"- [{text}](https://www.aclweb.org{link})\n"
+            elif index_link:
+                t_link += f"- [{text}](https://www.aclweb.org{link})\n"
+            else:
+                t_others += f"- [{text}](https://www.aclweb.org{link})\n"
+
+    t += (t_rec + t_link + t_others)
     txt += t
 
     
