@@ -47,6 +47,7 @@ for name, url in urls:
     t = f"### [{name}]({url})\n\n"
     t_rec = "\n#### NER\n"
     t_link = "\n#### EL\n"
+    t_type = "\n#### Entity Typing\n"
     t_others = "\n#### misc\n"
 
     r = requests.get(url)
@@ -59,19 +60,24 @@ for name, url in urls:
         link = res.get('href')
         text = res.get_text()
 
-        index = "Entity" in text or "entity" in text
-        index_rec = "Recogn" in text or "recogn" in text
-        index_link = "Link" in text or "link" in text
+        item = f"- [{text}](https://www.aclweb.org{link})\n"
 
-        if index:
-            if index_rec:
-                t_rec += f"- [{text}](https://www.aclweb.org{link})\n"
-            elif index_link:
-                t_link += f"- [{text}](https://www.aclweb.org{link})\n"
+        found = "Entity" in text or "entity" in text
+        found_rec = "Recogn" in text or "recogn" in text
+        found_link = "Link" in text or "link" in text
+        found_type = "Entity Typing" in text or "Entity Type" in text
+
+        if found:
+            if found_rec:
+                t_rec += item
+            elif found_link:
+                t_link += item
+            elif found_type:
+                t_type += item
             else:
-                t_others += f"- [{text}](https://www.aclweb.org{link})\n"
+                t_others += item
 
-    t += (t_rec + t_link + t_others)
+    t += (t_rec + t_link + t_type + t_others)
     txt += t
 
     
