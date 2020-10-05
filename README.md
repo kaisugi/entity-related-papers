@@ -9,10 +9,13 @@
 - [Code and Named Entity Recognition in StackOverflow](https://www.aclweb.org/anthology/2020.acl-main.443/)
 - [A Unified MRC Framework for Named Entity Recognition](https://www.aclweb.org/anthology/2020.acl-main.519/)
 - [Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling](https://www.aclweb.org/anthology/2020.acl-main.523/)
+- [Multi-Cell Compositional LSTM for NER Domain Adaptation](https://www.aclweb.org/anthology/2020.acl-main.524/)
 - [Pyramid: A Layered Model for Nested Named Entity Recognition](https://www.aclweb.org/anthology/2020.acl-main.525/)
 - [Bipartite Flat-Graph Network for Nested Named Entity Recognition](https://www.aclweb.org/anthology/2020.acl-main.571/)
 - [Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition](https://www.aclweb.org/anthology/2020.acl-main.575/)
 - [Named Entity Recognition as Dependency Parsing](https://www.aclweb.org/anthology/2020.acl-main.577/)
+- [Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language](https://www.aclweb.org/anthology/2020.acl-main.581/)
+- [FLAT: Chinese NER Using Flat-Lattice Transformer](https://www.aclweb.org/anthology/2020.acl-main.611/)
 - [Temporally-Informed Analysis of Named Entity Recognition](https://www.aclweb.org/anthology/2020.acl-main.680/)
 - [Sources of Transfer in Multilingual Named Entity Recognition](https://www.aclweb.org/anthology/2020.acl-main.720/)
 - [Soft Gazetteers for Low-Resource Named Entity Recognition](https://www.aclweb.org/anthology/2020.acl-main.722/)
@@ -22,6 +25,7 @@
 - [Extensive Error Analysis and a Learning-Based Evaluation of Medical Entity Recognition Systems to Approximate User Experience](https://www.aclweb.org/anthology/2020.bionlp-1.19/)
 - [Bootstrapping Named Entity Recognition in E-Commerce with Positive Unlabeled Learning](https://www.aclweb.org/anthology/2020.ecnlp-1.1/)
 - [Zero-Resource Cross-Domain Named Entity Recognition](https://www.aclweb.org/anthology/2020.repl4nlp-1.1/)
+- [Incorporating Uncertain Segmentation Information into Chinese NER for Social Media Text](https://www.aclweb.org/anthology/2020.socialnlp-1.7/)
 
 #### EL
 - [Improving Entity Linking through Semantic Reinforced Entity Embeddings](https://www.aclweb.org/anthology/2020.acl-main.612/)
@@ -65,6 +69,7 @@
 - [A Broad-coverage Corpus for Finnish Named Entity Recognition](https://www.aclweb.org/anthology/2020.lrec-1.567/)
 - [Embeddings for Named Entity Recognition in Geoscience Portuguese Literature](https://www.aclweb.org/anthology/2020.lrec-1.568/)
 - [Establishing a New State-of-the-Art for French Named Entity Recognition](https://www.aclweb.org/anthology/2020.lrec-1.569/)
+- [Reconstructing NER Corpora: a Case Study on Bulgarian](https://www.aclweb.org/anthology/2020.lrec-1.571/)
 - [Building a Norwegian Lexical Resource for Medical Entity Recognition](https://www.aclweb.org/anthology/2020.multilingualbio-1.2/)
 - [A Deeper Study on Features for Named Entity Recognition](https://www.aclweb.org/anthology/2020.wildre-1.12/)
 
@@ -99,16 +104,20 @@
 #### NER
 - [A Joint Named-Entity Recognizer for Heterogeneous Tag-sets Using a Tag Hierarchy](https://www.aclweb.org/anthology/P19-1014/)
 - [Multi-grained Named Entity Recognition](https://www.aclweb.org/anthology/P19-1138/)
+- [A Neural Multi-digraph Model for Chinese NER with Gazetteers](https://www.aclweb.org/anthology/P19-1141/)
 - [Distantly Supervised Named Entity Recognition using Positive-Unlabeled Learning](https://www.aclweb.org/anthology/P19-1231/)
+- [Cross-Domain NER using Cross-Domain Language Modeling](https://www.aclweb.org/anthology/P19-1236/)
 - [Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition](https://www.aclweb.org/anthology/P19-1336/)
 - [NNE: A Dataset for Nested Named Entity Recognition in English Newswire](https://www.aclweb.org/anthology/P19-1510/)
 - [Towards Improving Neural Named Entity Recognition with Gazetteers](https://www.aclweb.org/anthology/P19-1524/)
+- [Neural Architectures for Nested NER through Linearization](https://www.aclweb.org/anthology/P19-1527/)
 - [A Prism Module for Semantic Disentanglement in Name Entity Recognition](https://www.aclweb.org/anthology/P19-1532/)
 - [A Semi-Markov Structured Support Vector Machine Model for High-Precision Named Entity Recognition](https://www.aclweb.org/anthology/P19-1587/)
 - [Corpus Creation and Analysis for Named Entity Recognition in Telugu-English Code-Mixed Social Media Data](https://www.aclweb.org/anthology/P19-2025/)
 - [Joint Learning of Named Entity Recognition and Entity Linking](https://www.aclweb.org/anthology/P19-2026/)
 - [Embedding Strategies for Specialized Domains: Application to Clinical Entity Recognition](https://www.aclweb.org/anthology/P19-2041/)
 - [Augmenting Named Entity Recognition with Commonsense Knowledge](https://www.aclweb.org/anthology/W19-3644/)
+- [BSNLP2019 Shared Task Submission: Multisource Neural NER Transfer](https://www.aclweb.org/anthology/W19-3710/)
 - [TLR at BSNLP2019: A Multilingual Named Entity Recognition System](https://www.aclweb.org/anthology/W19-3711/)
 - [Tuning Multilingual Transformers for Language-Specific Named Entity Recognition](https://www.aclweb.org/anthology/W19-3712/)
 - [Multilingual Named Entity Recognition Using Pretrained Embeddings, Attention Mechanism and NCRF](https://www.aclweb.org/anthology/W19-3713/)
@@ -195,6 +204,7 @@
 - [A Boundary-aware Neural Model for Nested Named Entity Recognition](https://www.aclweb.org/anthology/D19-1034/)
 - [Similarity Based Auxiliary Classifier for Named Entity Recognition](https://www.aclweb.org/anthology/D19-1105/)
 - [Hierarchical Meta-Embeddings for Code-Switching Named Entity Recognition](https://www.aclweb.org/anthology/D19-1360/)
+- [Feature-Dependent Confusion Matrices for Low-Resource NER Labeling with Noisy Labels](https://www.aclweb.org/anthology/D19-1362/)
 - [Improved Differentiable Architecture Search for Language Modeling and Named Entity Recognition](https://www.aclweb.org/anthology/D19-1367/)
 - [Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network](https://www.aclweb.org/anthology/D19-1396/)
 - [Dependency-Guided LSTM-CRF for Named Entity Recognition](https://www.aclweb.org/anthology/D19-1399/)
@@ -208,6 +218,7 @@
 - [Biomedical Named Entity Recognition with Multilingual BERT](https://www.aclweb.org/anthology/D19-5709/)
 - [Transfer Learning in Biomedical Named Entity Recognition: An Evaluation of BERT in the PharmaCoNER task](https://www.aclweb.org/anthology/D19-5715/)
 - [Linguistically Informed Relation Extraction and Neural Architectures for Nested Named Entity Recognition in BioNLP-OST 2019](https://www.aclweb.org/anthology/D19-5720/)
+- [Reinforcement-based denoising of distantly supervised NER with partial annotation](https://www.aclweb.org/anthology/D19-6125/)
 
 #### EL
 - [Learning Dynamic Context Augmentation for Global Entity Linking](https://www.aclweb.org/anthology/D19-1026/)
@@ -265,6 +276,7 @@
 
 
 #### NER
+- [Chinese NER Using Lattice LSTM](https://www.aclweb.org/anthology/P18-1144/)
 - [Named Entity Recognition With Parallel Recurrent Neural Networks](https://www.aclweb.org/anthology/P18-2012/)
 - [A Named Entity Recognition Shootout for German](https://www.aclweb.org/anthology/P18-2020/)
 - [A Study of the Importance of External Knowledge in the Named Entity Recognition Task](https://www.aclweb.org/anthology/P18-2039/)
@@ -395,6 +407,7 @@
 - [Transfer Learning for Entity Recognition of Novel Classes](https://www.aclweb.org/anthology/C18-1168/)
 - [Improving Named Entity Recognition by Jointly Learning to Disambiguate Morphological Tags](https://www.aclweb.org/anthology/C18-1177/)
 - [A Survey on Recent Advances in Named Entity Recognition from Deep Learning models](https://www.aclweb.org/anthology/C18-1182/)
+- [Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning](https://www.aclweb.org/anthology/C18-1183/)
 
 #### EL
 - [They Exist! Introducing Plural Mentions to Coreference Resolution and Entity Linking](https://www.aclweb.org/anthology/C18-1003/)
@@ -685,6 +698,7 @@
 - [Domain Adaptation for Named Entity Recognition Using CRFs](https://www.aclweb.org/anthology/L16-1089/)
 - [Name Translation based on Fine-grained Named Entity Recognition in a Single Language](https://www.aclweb.org/anthology/L16-1097/)
 - [The ACL RD-TEC 2.0: A Language Resource for Evaluating Term Extraction and Entity Recognition Methods](https://www.aclweb.org/anthology/L16-1294/)
+- [WTF-LOD - A New Resource for Large-Scale NER Evaluation](https://www.aclweb.org/anthology/L16-1525/)
 - [Government Domain Named Entity Recognition for South African Languages](https://www.aclweb.org/anthology/L16-1533/)
 - [Incorporating Lexico-semantic Heuristics into Coreference Resolution Sieves for Named Entity Recognition at Document-level](https://www.aclweb.org/anthology/L16-1535/)
 - [An Open Corpus for Named Entity Recognition in Historic Newspapers](https://www.aclweb.org/anthology/L16-1689/)

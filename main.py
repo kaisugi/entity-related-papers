@@ -62,9 +62,9 @@ for name, url in urls:
 
         item = f"- [{text}](https://www.aclweb.org{link})\n"
 
-        found = "Entity" in text or "entity" in text
-        found_rec = "Recogn" in text or "recogn" in text
-        found_link = "Link" in text or "link" in text
+        found = "Entity" in text or "entity" in text or " NER " in text or " NEL " in text or " EL " in text 
+        found_rec = "Recogn" in text or "recogn" in text or " NER " in text
+        found_link = "Link" in text or "link" in text or " NEL " in text or " EL " in text 
         found_type = "Entity Typing" in text or "Entity Type" in text
 
         if found:
