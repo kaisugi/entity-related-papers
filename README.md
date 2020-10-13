@@ -39,7 +39,10 @@
 - [Towards Interpretable Clinical Diagnosis with Bayesian Network Ensembles Stacked on Entity-Aware CNNs](https://www.aclweb.org/anthology/2020.acl-main.286/)
 - [Biomedical Entity Representations with Synonym Marginalization](https://www.aclweb.org/anthology/2020.acl-main.335/)
 - [Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification](https://www.aclweb.org/anthology/2020.acl-main.512/)
+- [Relabel the Noise: Joint Extraction of Entities and Relations via Cooperative Multiagents](https://www.aclweb.org/anthology/2020.acl-main.527/)
+- [Handling Rare Entities for Neural Sequence Labeling](https://www.aclweb.org/anthology/2020.acl-main.574/)
 - [Neighborhood Matching Network for Entity Alignment](https://www.aclweb.org/anthology/2020.acl-main.578/)
+- [Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts](https://www.aclweb.org/anthology/2020.acl-main.717/)
 - [Empower Entity Set Expansion via Language Model Probing](https://www.aclweb.org/anthology/2020.acl-main.725/)
 - [Toward General Scene Graph: Integration of Visual Semantic Knowledge with Entity Synset Alignment](https://www.aclweb.org/anthology/2020.alvr-1.2/)
 - [Entity-Enriched Neural Models for Clinical Question Answering](https://www.aclweb.org/anthology/2020.bionlp-1.12/)
@@ -89,6 +92,7 @@
 - [Multi-class Multilingual Classification of Wikipedia Articles Using Extended Named Entity Tag Set](https://www.aclweb.org/anthology/2020.lrec-1.150/)
 - [WEXEA: Wikipedia EXhaustive Entity Annotation](https://www.aclweb.org/anthology/2020.lrec-1.240/)
 - [Handling Entity Normalization with no Annotated Corpus: Weakly Supervised Methods Based on Distributional Representation and Ontological Information](https://www.aclweb.org/anthology/2020.lrec-1.241/)
+- [Social Web Observatory: A Platform and Method for Gathering Knowledge on Entities from Different Textual Sources](https://www.aclweb.org/anthology/2020.lrec-1.246/)
 - [WN-Salience: A Corpus of News Articles with Entity Salience Annotations](https://www.aclweb.org/anthology/2020.lrec-1.257/)
 - [Towards Entity Spaces](https://www.aclweb.org/anthology/2020.lrec-1.261/)
 - [The STEM-ECR Dataset: Grounding Scientific Entity References in STEM Scholarly Content to Authoritative Encyclopedic and Lexicographic Sources](https://www.aclweb.org/anthology/2020.lrec-1.268/)
@@ -96,6 +100,8 @@
 - [Cross-lingual Named Entity List Search via Transliteration](https://www.aclweb.org/anthology/2020.lrec-1.524/)
 - [Introducing RONEC - the Romanian Named Entity Corpus](https://www.aclweb.org/anthology/2020.lrec-1.546/)
 - [Czech Historical Named Entity Corpus v 1.0](https://www.aclweb.org/anthology/2020.lrec-1.549/)
+- [Named Entities in Medical Case Reports: Corpus and Experiments](https://www.aclweb.org/anthology/2020.lrec-1.553/)
+- [NorNE: Annotating Named Entities for Norwegian](https://www.aclweb.org/anthology/2020.lrec-1.559/)
 - [DaNE: A Named Entity Resource for Danish](https://www.aclweb.org/anthology/2020.lrec-1.565/)
 - [Fine-grained Named Entity Annotations for German Biographic Interviews](https://www.aclweb.org/anthology/2020.lrec-1.566/)
 ### [ACL 2019](https://www.aclweb.org/anthology/events/acl-2019/)
@@ -117,6 +123,7 @@
 - [Joint Learning of Named Entity Recognition and Entity Linking](https://www.aclweb.org/anthology/P19-2026/)
 - [Embedding Strategies for Specialized Domains: Application to Clinical Entity Recognition](https://www.aclweb.org/anthology/P19-2041/)
 - [Augmenting Named Entity Recognition with Commonsense Knowledge](https://www.aclweb.org/anthology/W19-3644/)
+- [The Second Cross-Lingual Challenge on Recognition, Normalization, Classification, and Linking of Named Entities across Slavic Languages](https://www.aclweb.org/anthology/W19-3709/)
 - [BSNLP2019 Shared Task Submission: Multisource Neural NER Transfer](https://www.aclweb.org/anthology/W19-3710/)
 - [TLR at BSNLP2019: A Multilingual Named Entity Recognition System](https://www.aclweb.org/anthology/W19-3711/)
 - [Tuning Multilingual Transformers for Language-Specific Named Entity Recognition](https://www.aclweb.org/anthology/W19-3712/)
@@ -138,11 +145,14 @@
 - [Fine-Grained Entity Typing in Hyperbolic Space](https://www.aclweb.org/anthology/W19-4319/)
 
 #### misc
+- [Generating Logical Forms from Graph Representations of Text and Entities](https://www.aclweb.org/anthology/P19-1010/)
 - [Coreference Resolution with Entity Equalization](https://www.aclweb.org/anthology/P19-1066/)
 - [Joint Entity Extraction and Assertion Detection for Clinical Text](https://www.aclweb.org/anthology/P19-1091/)
 - [Entity-Relation Extraction as Multi-Turn Question Answering](https://www.aclweb.org/anthology/P19-1129/)
 - [Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data](https://www.aclweb.org/anthology/P19-1130/)
+- [Joint Type Inference on Entities and Relations via Graph Convolutional Networks](https://www.aclweb.org/anthology/P19-1131/)
 - [GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction](https://www.aclweb.org/anthology/P19-1136/)
+- [ERNIE: Enhanced Language Representation with Informative Entities](https://www.aclweb.org/anthology/P19-1139/)
 - [Multi-Channel Graph Neural Network for Entity Alignment](https://www.aclweb.org/anthology/P19-1140/)
 - [Data-to-text Generation with Entity Modeling](https://www.aclweb.org/anthology/P19-1195/)
 - [Entity-Centric Contextual Affective Analysis](https://www.aclweb.org/anthology/P19-1243/)
@@ -153,6 +163,7 @@
 - [Encouraging Paragraph Embeddings to Remember Sentence Identity Improves Classification](https://www.aclweb.org/anthology/P19-1638/)
 - [Improving Neural Entity Disambiguation with Graph Embeddings](https://www.aclweb.org/anthology/P19-2044/)
 - [Entity-level Classification of Adverse Drug Reactions: a Comparison of Neural Network Models](https://www.aclweb.org/anthology/W19-3641/)
+- [Unsupervised Induction of Ukrainian Morphological Paradigms for the New Lexicon: Extending Coverage for Named Entities and Neologisms using Inflection Tables and Unannotated Corpora](https://www.aclweb.org/anthology/W19-3701/)
 ### [TACL 2019](https://www.aclweb.org/anthology/events/tacl-2019/)
 
 
@@ -192,6 +203,7 @@
 - [BAG: Bi-directional Attention Entity Graph Convolutional Network for Multi-hop Reasoning Question Answering](https://www.aclweb.org/anthology/N19-1032/)
 - [PoMo: Generating Entity-Specific Post-Modifiers in Context](https://www.aclweb.org/anthology/N19-1089/)
 - [Graph Pattern Entity Ranking Model for Knowledge Graph Completion](https://www.aclweb.org/anthology/N19-1104/)
+- [An annotated dataset of literary entities](https://www.aclweb.org/anthology/N19-1220/)
 - [Multilingual Entity, Relation, Event and Human Value Extraction](https://www.aclweb.org/anthology/N19-4019/)
 - [Tracking Discrete and Continuous Entity State for Process Understanding](https://www.aclweb.org/anthology/W19-1502/)
 - [Evaluation of named entity coreference](https://www.aclweb.org/anthology/W19-2801/)
@@ -209,12 +221,14 @@
 - [Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network](https://www.aclweb.org/anthology/D19-1396/)
 - [Dependency-Guided LSTM-CRF for Named Entity Recognition](https://www.aclweb.org/anthology/D19-1399/)
 - [A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers](https://www.aclweb.org/anthology/D19-1520/)
+- [Combining Spans into Entities: A Neural Two-Stage Approach for Recognizing Discontiguous Entities](https://www.aclweb.org/anthology/D19-1644/)
 - [Gazetteer-Enhanced Attentive Neural Networks for Named Entity Recognition](https://www.aclweb.org/anthology/D19-1646/)
 - [Multi-Task Learning for Chemical Named Entity Recognition with Chemical Compound Paraphrasing](https://www.aclweb.org/anthology/D19-1648/)
 - [Weakly Supervised Attention Networks for Entity Recognition](https://www.aclweb.org/anthology/D19-1652/)
 - [What Matters for Neural Cross-Lingual Named Entity Recognition: An Empirical Analysis](https://www.aclweb.org/anthology/D19-1672/)
 - [Robustness to Capitalization Errors in Named Entity Recognition](https://www.aclweb.org/anthology/D19-5531/)
 - [PharmaCoNER: Pharmacological Substances, Compounds and proteins Named Entity Recognition track](https://www.aclweb.org/anthology/D19-5701/)
+- [Deep neural model with enhanced embeddings for pharmaceutical and chemical entities recognition in Spanish clinical text](https://www.aclweb.org/anthology/D19-5707/)
 - [Biomedical Named Entity Recognition with Multilingual BERT](https://www.aclweb.org/anthology/D19-5709/)
 - [Transfer Learning in Biomedical Named Entity Recognition: An Evaluation of BERT in the PharmaCoNER task](https://www.aclweb.org/anthology/D19-5715/)
 - [Linguistically Informed Relation Extraction and Neural Architectures for Nested Named Entity Recognition in BioNLP-OST 2019](https://www.aclweb.org/anthology/D19-5720/)
@@ -235,6 +249,7 @@
 #### misc
 - [Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever](https://www.aclweb.org/anthology/D19-1013/)
 - [Jointly Learning Entity and Relation Representations for Entity Alignment](https://www.aclweb.org/anthology/D19-1023/)
+- [Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1024/)
 - [Learning to Bootstrap for Entity Set Expansion](https://www.aclweb.org/anthology/D19-1028/)
 - [Leveraging 2-hop Distant Supervision from Table Entity Pairs for Relation Extraction](https://www.aclweb.org/anthology/D19-1039/)
 - [EntEval: A Holistic Evaluation Benchmark for Entity Representations](https://www.aclweb.org/anthology/D19-1040/)
@@ -245,15 +260,19 @@
 - [Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model](https://www.aclweb.org/anthology/D19-1274/)
 - [Referring Expression Generation Using Entity Profiles](https://www.aclweb.org/anthology/D19-1312/)
 - [An Entity-Driven Framework for Abstractive Summarization](https://www.aclweb.org/anthology/D19-1323/)
+- [Aligning Cross-Lingual Entities with Multi-Aspect Information](https://www.aclweb.org/anthology/D19-1451/)
+- [Learning to Infer Entities, Properties and their Relations from Clinical Conversations](https://www.aclweb.org/anthology/D19-1503/)
 - [CrossWeigh: Training Named Entity Tagger from Imperfect Annotations](https://www.aclweb.org/anthology/D19-1519/)
 - [Entity, Relation, and Event Extraction with Contextualized Span Representations](https://www.aclweb.org/anthology/D19-1585/)
 - [Entity resolution for noisy ASR transcripts](https://www.aclweb.org/anthology/D19-3011/)
 - [Relation Prediction for Unseen-Entities Using Entity-Word Graphs](https://www.aclweb.org/anthology/D19-5302/)
 - [Scalable graph-based method for individual named entity identification](https://www.aclweb.org/anthology/D19-5303/)
+- [When Specialization Helps: Using Pooled Contextualized Embeddings to Detect Chemical and Biomedical Entities in Spanish](https://www.aclweb.org/anthology/D19-5702/)
 - [NLNDE: Enhancing Neural Sequence Taggers with Attention and Noisy Channel for Robust Pharmacological Entity Detection](https://www.aclweb.org/anthology/D19-5705/)
 - [An ensemble CNN method for biomedical entity normalization](https://www.aclweb.org/anthology/D19-5721/)
 - [BOUN-ISIK Participation: An Unsupervised Approach for the Named Entity Normalization and Relation Extraction of Bacteria Biotopes](https://www.aclweb.org/anthology/D19-5722/)
 - [Multi-step Entity-centric Information Retrieval for Multi-Hop Question Answering](https://www.aclweb.org/anthology/D19-5816/)
+- [Relation Extraction among Multiple Entities Using a Dual Pointer Network with a Multi-Head Attention Mechanism](https://www.aclweb.org/anthology/D19-6608/)
 ### [CoNLL 2019](https://www.aclweb.org/anthology/events/conll-2019/)
 
 
@@ -271,6 +290,7 @@
 #### misc
 - [Learning a Unified Named Entity Tagger from Multiple Partially Annotated Corpora for Efficient Adaptation](https://www.aclweb.org/anthology/K19-1048/)
 - [Learning Dense Representations for Entity Retrieval](https://www.aclweb.org/anthology/K19-1049/)
+- [Neural Attentive Bag-of-Entities Model for Text Classification](https://www.aclweb.org/anthology/K19-1052/)
 - [MrMep: Joint Extraction of Multiple Relations and Multiple Entity Pairs Based on Triplet Attention](https://www.aclweb.org/anthology/K19-1055/)
 ### [ACL 2018](https://www.aclweb.org/anthology/events/acl-2018/)
 
@@ -311,14 +331,22 @@
 - [Coherence Modeling of Asynchronous Conversations: A Neural Entity Grid Approach](https://www.aclweb.org/anthology/P18-1052/)
 - [Entity-Centric Joint Modeling of Japanese Coreference Resolution and Predicate Argument Structure Analysis](https://www.aclweb.org/anthology/P18-1054/)
 - [Multimodal Named Entity Disambiguation for Noisy Social Media Posts](https://www.aclweb.org/anthology/P18-1186/)
+- [Building Language Models for Text with Named Entities](https://www.aclweb.org/anthology/P18-1221/)
 - [Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval](https://www.aclweb.org/anthology/P18-1223/)
 - [A Walk-based Model on Entity Graphs for Relation Extraction](https://www.aclweb.org/anthology/P18-2014/)
+- [Improving Topic Quality by Promoting Named Entities in Topic Modeling](https://www.aclweb.org/anthology/P18-2040/)
 - [diaNED: Time-Aware Named Entity Disambiguation for Diachronic Corpora](https://www.aclweb.org/anthology/P18-2109/)
 - [Ontology alignment in the biomedical domain using entity definitions and context](https://www.aclweb.org/anthology/W18-2306/)
 - [A Framework for Developing and Evaluating Word Embeddings of Drug-named Entity](https://www.aclweb.org/anthology/W18-2319/)
+- [Proceedings of the Seventh Named Entities Workshop](https://www.aclweb.org/anthology/W18-2400/)
+- [Automatic Extraction of Entities and Relation from Legal Documents](https://www.aclweb.org/anthology/W18-2401/)
+- [Forms of Anaphoric Reference to Organisational Named Entities: Hoping to widen appeal, they diversified](https://www.aclweb.org/anthology/W18-2406/)
 - [Named-Entity Tagging and Domain adaptation for Better Customized Translation](https://www.aclweb.org/anthology/W18-2407/)
 - [Report of NEWS 2018 Named Entity Transliteration Shared Task](https://www.aclweb.org/anthology/W18-2409/)
 - [Neural Machine Translation Techniques for Named Entity Transliteration](https://www.aclweb.org/anthology/W18-2413/)
+- [Comparison of Representations of Named Entities for Document Classification](https://www.aclweb.org/anthology/W18-3008/)
+- [Knowledge Graph Embedding with Numeric Attributes of Entities](https://www.aclweb.org/anthology/W18-3017/)
+- [Jointly Embedding Entities and Text with Distant Supervision](https://www.aclweb.org/anthology/W18-3026/)
 ### [TACL 2018](https://www.aclweb.org/anthology/events/tacl-2018/)
 
 
@@ -336,6 +364,7 @@
 - [Label-Aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition](https://www.aclweb.org/anthology/N18-1001/)
 - [Multimodal Named Entity Recognition for Short Social Media Posts](https://www.aclweb.org/anthology/N18-1078/)
 - [Nested Named Entity Recognition Revisited](https://www.aclweb.org/anthology/N18-1079/)
+- [Modeling Noisiness to Recognize Named Entities using Multitask Neural Networks on Social Media](https://www.aclweb.org/anthology/N18-1127/)
 - [A Neural Layered Model for Nested Named Entity Recognition](https://www.aclweb.org/anthology/N18-1131/)
 - [Improve Neural Entity Recognition via Multi-Task Data Selection and Constrained Decoding](https://www.aclweb.org/anthology/N18-2056/)
 
@@ -356,6 +385,7 @@
 - [Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-Based Sentiment Analysis](https://www.aclweb.org/anthology/N18-2045/)
 - [Structure Regularized Neural Network for Entity Relation Classification for Chinese Literature Text](https://www.aclweb.org/anthology/N18-2059/)
 - [Benchmarks and models for entity-oriented polarity detection](https://www.aclweb.org/anthology/N18-3016/)
+- [Alignment, Acceptance, and Rejection of Group Identities in Online Political Discourse](https://www.aclweb.org/anthology/N18-4001/)
 - [Entity Resolution and Location Disambiguation in the Ancient Hindu Temples Domain using Web Data](https://www.aclweb.org/anthology/N18-5010/)
 - [Event versus entity co-reference: Effects of context and form of referring expression](https://www.aclweb.org/anthology/W18-0711/)
 ### [EMNLP 2018](https://www.aclweb.org/anthology/events/emnlp-2018/)
@@ -389,12 +419,17 @@
 - [Building Context-aware Clause Representations for Situation Entity Type Classification](https://www.aclweb.org/anthology/D18-1368/)
 
 #### misc
+- [Joint Representation Learning of Cross-lingual Words and Entities via Attentive Distant Supervision](https://www.aclweb.org/anthology/D18-1021/)
 - [Entity Tracking Improves Cloze-style Reading Comprehension](https://www.aclweb.org/anthology/D18-1130/)
+- [Mapping Text to Knowledge Graph Entities using Multi-Sense LSTMs](https://www.aclweb.org/anthology/D18-1221/)
 - [Regular Expression Guided Entity Mention Mining from Noisy Web Data](https://www.aclweb.org/anthology/D18-1224/)
 - [Annotation of a Large Clinical Entity Corpus](https://www.aclweb.org/anthology/D18-1228/)
 - [Learning Named Entity Tagger using Domain-Specific Dictionary](https://www.aclweb.org/anthology/D18-1230/)
+- [Extracting Entities and Relations with Joint Minimum Risk Training](https://www.aclweb.org/anthology/D18-1249/)
 - [Neural Transition Based Parsing of Web Queries: An Entity Based Approach](https://www.aclweb.org/anthology/D18-1290/)
 - [Adversarial training for multi-context joint entity and relation extraction](https://www.aclweb.org/anthology/D18-1307/)
+- [Multi-Task Identification of Entities, Relations, and Coreference for Scientific Knowledge Graph Construction](https://www.aclweb.org/anthology/D18-1360/)
+- [Content Explorer: Recommending Novel Entities for a Document Writer](https://www.aclweb.org/anthology/D18-1374/)
 - [Entity-aware Image Caption Generation](https://www.aclweb.org/anthology/D18-1435/)
 - [Frame- and Entity-Based Knowledge for Common-Sense Argumentative Reasoning](https://www.aclweb.org/anthology/W18-5211/)
 - [A Comparison of Entity Matching Methods between English and Japanese Katakana](https://www.aclweb.org/anthology/W18-5809/)
@@ -408,6 +443,7 @@
 - [Improving Named Entity Recognition by Jointly Learning to Disambiguate Morphological Tags](https://www.aclweb.org/anthology/C18-1177/)
 - [A Survey on Recent Advances in Named Entity Recognition from Deep Learning models](https://www.aclweb.org/anthology/C18-1182/)
 - [Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning](https://www.aclweb.org/anthology/C18-1183/)
+- [Learning to Progressively Recognize New Named Entities with Sequence to Sequence Models](https://www.aclweb.org/anthology/C18-1185/)
 
 #### EL
 - [They Exist! Introducing Plural Mentions to Coreference Resolution and Entity Linking](https://www.aclweb.org/anthology/C18-1003/)
@@ -418,12 +454,15 @@
 - [Attributed and Predictive Entity Embedding for Fine-Grained Entity Typing in Knowledge Bases](https://www.aclweb.org/anthology/C18-1024/)
 
 #### misc
+- [Representation Learning of Entities and Documents from Knowledge Base Descriptions](https://www.aclweb.org/anthology/C18-1016/)
 - [Design Challenges in Named Entity Transliteration](https://www.aclweb.org/anthology/C18-1053/)
+- [Exploiting Structure in Representation of Named Entities using Active Learning](https://www.aclweb.org/anthology/C18-1058/)
 - [A Practical Incremental Learning Framework For Sparse Entity Extraction](https://www.aclweb.org/anthology/C18-1059/)
 - [Multilevel Heuristics for Rationale-Based Entity Relation Classification in Sentences](https://www.aclweb.org/anthology/C18-1098/)
 - [Joint Neural Entity Disambiguation with Output Space Search](https://www.aclweb.org/anthology/C18-1184/)
 - [An Exploration of Three Lightly-supervised Representation Learning Approaches for Named Entity Classification](https://www.aclweb.org/anthology/C18-1196/)
 - [Neural Machine Translation Incorporating Named Entity](https://www.aclweb.org/anthology/C18-1274/)
+- [Utilizing Graph Measure to Deduce Omitted Entities in Paragraphs](https://www.aclweb.org/anthology/C18-2011/)
 ### [CoNLL 2018](https://www.aclweb.org/anthology/events/conll-2018/)
 
 
@@ -438,6 +477,7 @@
 #### misc
 - [A Trio Neural Model for Dynamic Entity Relatedness Ranking](https://www.aclweb.org/anthology/K18-1004/)
 - [Learning Text Representations for 500K Classification Tasks on Named Entity Disambiguation](https://www.aclweb.org/anthology/K18-1017/)
+- [Latent Entities Extraction: How to Extract Entities that Do Not Appear in the Text?](https://www.aclweb.org/anthology/K18-1020/)
 ### [LREC 2018](https://www.aclweb.org/anthology/events/lrec-2018/)
 
 
@@ -453,6 +493,7 @@
 
 #### EL
 - [Framing Named Entity Linking Error Types](https://www.aclweb.org/anthology/L18-1040/)
+- [Linking, Searching, and Visualizing Entities in Wikipedia](https://www.aclweb.org/anthology/L18-1540/)
 
 #### Entity Typing
 - [Transforming Wikipedia into a Large-Scale Fine-Grained Entity Type Corpus](https://www.aclweb.org/anthology/L18-1699/)
@@ -461,6 +502,8 @@
 - [Medical Entity Corpus with PICO elements and Sentiment Analysis](https://www.aclweb.org/anthology/L18-1044/)
 - [A Deep Neural Network based Approach for Entity Extraction in Code-Mixed Indian Social Media Text](https://www.aclweb.org/anthology/L18-1278/)
 - [A Multilingual Test Collection for the Semantic Search of Entity Categories](https://www.aclweb.org/anthology/L18-1398/)
+- [Combining rule-based and embedding-based approaches to normalize textual entities with an ontology](https://www.aclweb.org/anthology/L18-1543/)
+- [Adding Syntactic Annotations to Flickr30k Entities Corpus for Multimodal Ambiguous Prepositional-Phrase Attachment Resolution](https://www.aclweb.org/anthology/L18-1716/)
 - [Extended HowNet 2.0 – An Entity-Relation Common-Sense Representation Model](https://www.aclweb.org/anthology/L18-1724/)
 ### [PACLIC 2018](https://www.aclweb.org/anthology/events/paclic-2018/)
 
@@ -492,8 +535,11 @@
 - [Fine-Grained Entity Typing with High-Multiplicity Assignments](https://www.aclweb.org/anthology/P17-2052/)
 
 #### misc
+- [Apples to Apples: Learning Semantics of Common Entities Through a Novel Comprehension Task](https://www.aclweb.org/anthology/P17-1084/)
 - [Going out on a limb: Joint Extraction of Entity Mentions and Relations without Dependency Trees](https://www.aclweb.org/anthology/P17-1085/)
+- [Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme](https://www.aclweb.org/anthology/P17-1113/)
 - [Bridge Text and Knowledge by Learning Multi-Prototype Entity Mention Embedding](https://www.aclweb.org/anthology/P17-1149/)
+- [English Multiword Expression-aware Dependency Parsing Including Named Entities](https://www.aclweb.org/anthology/P17-2068/)
 ### [TACL 2017](https://www.aclweb.org/anthology/events/tacl-2017/)
 
 
@@ -504,6 +550,7 @@
 #### Entity Typing
 
 #### misc
+- [Learning Distributed Representations of Texts and Entities from Knowledge Base](https://www.aclweb.org/anthology/Q17-1028/)
 ### [EMNLP 2017](https://www.aclweb.org/anthology/events/emnlp-2017/)
 
 
@@ -541,7 +588,11 @@
 - [Neural Architectures for Fine-grained Entity Type Classification](https://www.aclweb.org/anthology/E17-1119/)
 
 #### misc
+- [Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks](https://www.aclweb.org/anthology/E17-1013/)
+- [Multi-level Representations for Fine-Grained Typing of Knowledge Base Entities](https://www.aclweb.org/anthology/E17-1055/)
 - [Generalizing to Unseen Entities and Entity Pairs with Row-less Universal Schema](https://www.aclweb.org/anthology/E17-1058/)
+- [SMARTies: Sentiment Models for Arabic Target entities](https://www.aclweb.org/anthology/E17-1094/)
+- [Grouping business news stories based on salience of named entities](https://www.aclweb.org/anthology/E17-1103/)
 - [Entity Extraction in Biomedical Corpora: An Approach to Evaluate Word Embedding Features with PSO based Feature Selection](https://www.aclweb.org/anthology/E17-1109/)
 - [Aye or naw, whit dae ye hink? Scottish independence and linguistic identity on social media](https://www.aclweb.org/anthology/E17-1116/)
 - [End-to-End Trainable Attentive Decoder for Hierarchical Entity Classification](https://www.aclweb.org/anthology/E17-2119/)
@@ -562,6 +613,7 @@
 #### misc
 - [Domain-Adaptable Hybrid Generation of RDF Entity Descriptions](https://www.aclweb.org/anthology/I17-1031/)
 - [ES-LDA: Entity Summarization using Knowledge-based Topic Modeling](https://www.aclweb.org/anthology/I17-1032/)
+- [A Neural Language Model for Dynamically Representing the Meanings of Unknown Words and Entities in a Discourse](https://www.aclweb.org/anthology/I17-1048/)
 - [Identity Deception Detection](https://www.aclweb.org/anthology/I17-1089/)
 - [MONPA: Multi-objective Named-entity and Part-of-speech Annotator for Chinese using Recurrent Neural Network](https://www.aclweb.org/anthology/I17-2014/)
 ### [CoNLL 2017](https://www.aclweb.org/anthology/events/conll-2017/)
@@ -576,6 +628,7 @@
 
 #### misc
 - [Named Entity Disambiguation for Noisy Text](https://www.aclweb.org/anthology/K17-1008/)
+- [A Joint Model for Semantic Sequences: Frames, Entities, Sentiments](https://www.aclweb.org/anthology/K17-1019/)
 ### [PACLIC 2017](https://www.aclweb.org/anthology/events/paclic-2017/)
 
 
@@ -591,6 +644,7 @@
 
 
 #### NER
+- [Recognizing Salient Entities in Shopping Queries](https://www.aclweb.org/anthology/P16-2018/)
 - [Improving Named Entity Recognition for Chinese Social Media with Word Segmentation Representation Learning](https://www.aclweb.org/anthology/P16-2025/)
 - [Domain Specific Named Entity Recognition Referring to the Real World by Deep Neural Networks](https://www.aclweb.org/anthology/P16-2039/)
 - [Bootstrapped Text-level Named Entity Recognition for Literature](https://www.aclweb.org/anthology/P16-2056/)
@@ -605,6 +659,8 @@
 - [A Multi-media Approach to Cross-lingual Entity Knowledge Transfer](https://www.aclweb.org/anthology/P16-1006/)
 - [Collective Entity Resolution with Multi-Focal Attention](https://www.aclweb.org/anthology/P16-1059/)
 - [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://www.aclweb.org/anthology/P16-1061/)
+- [Investigating LSTMs for Joint Extraction of Opinion Entities and Relations](https://www.aclweb.org/anthology/P16-1087/)
+- [Beyond Plain Spatial Knowledge: Determining Where Entities Are and Are Not Located, and For How Long](https://www.aclweb.org/anthology/P16-1142/)
 - [Situation entity types: automatic classification of clause-level aspect](https://www.aclweb.org/anthology/P16-1166/)
 - [Alleviating Poor Context with Background Knowledge for Named Entity Disambiguation](https://www.aclweb.org/anthology/P16-1179/)
 - [Leveraging Lexical Resources for Learning Entity Embeddings in Multi-Relational Data](https://www.aclweb.org/anthology/P16-2019/)
@@ -638,12 +694,15 @@
 
 #### misc
 - [Entity-balanced Gaussian pLSA for Automated Comparison](https://www.aclweb.org/anthology/N16-1009/)
+- [Joint Extraction of Events and Entities within a Document Context](https://www.aclweb.org/anthology/N16-1033/)
+- [STransE: a novel embedding model of entities and relationships in knowledge bases](https://www.aclweb.org/anthology/N16-1054/)
 - [Dynamic Entity Representation with Max-pooling Improves Machine Reading](https://www.aclweb.org/anthology/N16-1099/)
 - [Unsupervised Ranking Model for Entity Coreference Resolution](https://www.aclweb.org/anthology/N16-1116/)
 ### [EMNLP 2016](https://www.aclweb.org/anthology/events/emnlp-2016/)
 
 
 #### NER
+- [Learning to Recognize Discontiguous Entities](https://www.aclweb.org/anthology/D16-1008/)
 - [Named Entity Recognition for Novel Types by Transfer Learning](https://www.aclweb.org/anthology/D16-1087/)
 - [Improving Multilingual Named Entity Recognition with Wikipedia Entity Type Mapping](https://www.aclweb.org/anthology/D16-1135/)
 - [Phonologically Aware Neural Model for Named Entity Recognition in Low Resource Transfer Settings](https://www.aclweb.org/anthology/D16-1153/)
@@ -654,6 +713,9 @@
 - [AFET: Automatic Fine-Grained Entity Typing by Hierarchical Partial-Label Embedding](https://www.aclweb.org/anthology/D16-1144/)
 
 #### misc
+- [Lifelong-RL: Lifelong Relaxation Labeling for Separating Entities and Aspects in Opinion Targets](https://www.aclweb.org/anthology/D16-1022/)
+- [Generating Abbreviations for Chinese Named Entities Using Recurrent Neural Network with Dynamic Dictionary](https://www.aclweb.org/anthology/D16-1069/)
+- [Toward Socially-Infused Information Extraction: Embedding Authors, Mentions, and Entities](https://www.aclweb.org/anthology/D16-1152/)
 ### [COLING 2016](https://www.aclweb.org/anthology/events/coling-2016/)
 
 
@@ -674,8 +736,12 @@
 #### misc
 - [Bitext Name Tagging for Cross-lingual Entity Annotation Projection](https://www.aclweb.org/anthology/C16-1045/)
 - [Named Entity Disambiguation for little known referents: a topic-based approach](https://www.aclweb.org/anthology/C16-1140/)
+- [Extracting Spatial Entities and Relations in Korean Text](https://www.aclweb.org/anthology/C16-1225/)
 - [Table Filling Multi-Task Recurrent Neural Network for Joint Entity and Relation Extraction](https://www.aclweb.org/anthology/C16-1239/)
+- [Joint Embedding of Hierarchical Categories and Entities for Concept Categorization and Dataless Classification](https://www.aclweb.org/anthology/C16-1252/)
+- [First Story Detection using Entities and Relations](https://www.aclweb.org/anthology/C16-1305/)
 - [Experiments in Candidate Phrase Selection for Financial Named Entity Extraction - A Demo](https://www.aclweb.org/anthology/C16-2010/)
+- [Illinois Cross-Lingual Wikifier: Grounding Entities in Many Languages to the English Wikipedia](https://www.aclweb.org/anthology/C16-2031/)
 - [MAGES: A Multilingual Angle-integrated Grouping-based Entity Summarization System](https://www.aclweb.org/anthology/C16-2043/)
 ### [CoNLL 2016](https://www.aclweb.org/anthology/events/conll-2016/)
 
@@ -704,6 +770,7 @@
 - [An Open Corpus for Named Entity Recognition in Historic Newspapers](https://www.aclweb.org/anthology/L16-1689/)
 
 #### EL
+- [Cross-lingual Linking of Multi-word Entities and their corresponding Acronyms](https://www.aclweb.org/anthology/L16-1084/)
 - [SemLinker, a Modular and Open Source Framework for Named Entity Discovery and Linking](https://www.aclweb.org/anthology/L16-1085/)
 - [Context-enhanced Adaptive Entity Linking](https://www.aclweb.org/anthology/L16-1086/)
 - [Entity Linking with a Paraphrase Flavor](https://www.aclweb.org/anthology/L16-1088/)
@@ -716,9 +783,13 @@
 
 #### misc
 - [Adapting an Entity Centric Model for Portuguese Coreference Resolution](https://www.aclweb.org/anthology/L16-1023/)
+- [E-TIPSY: Search Query Corpus Annotated with Entities, Term Importance, POS Tags, and Syntactic Parses](https://www.aclweb.org/anthology/L16-1106/)
 - [A comparison of Named-Entity Disambiguation and Word Sense Disambiguation](https://www.aclweb.org/anthology/L16-1139/)
 - [Crowdsourced Corpus with Entity Salience Annotations](https://www.aclweb.org/anthology/L16-1527/)
+- [Annotating Named Entities in Consumer Health Questions](https://www.aclweb.org/anthology/L16-1530/)
 - [Named Entity Resources - Overview and Outlook](https://www.aclweb.org/anthology/L16-1534/)
+- [Using Word Embeddings to Translate Named Entities](https://www.aclweb.org/anthology/L16-1536/)
+- [Parallel Chinese-English Entities, Relations and Events Corpora](https://www.aclweb.org/anthology/L16-1589/)
 - [Typed Entity and Relation Annotation on Computer Science Papers](https://www.aclweb.org/anthology/L16-1607/)
 ### [PACLIC 2016](https://www.aclweb.org/anthology/events/paclic-2016/)
 
@@ -754,6 +825,8 @@
 - [Entity Retrieval via Entity Factoid Hierarchy](https://www.aclweb.org/anthology/P15-1050/)
 - [Learning to Explain Entity Relationships in Knowledge Graphs](https://www.aclweb.org/anthology/P15-1055/)
 - [Context-aware Entity Morph Decoding](https://www.aclweb.org/anthology/P15-1057/)
+- [Multi-Objective Optimization for the Joint Disambiguation of Nouns and Named Entities](https://www.aclweb.org/anthology/P15-1058/)
+- [Sparse, Contextually Informed Models for Irony Detection: Exploiting User Communities, Entities and Sentiment](https://www.aclweb.org/anthology/P15-1100/)
 - [Entity Hierarchy Embedding](https://www.aclweb.org/anthology/P15-1125/)
 - [Entity-Centric Coreference Resolution with Model Stacking](https://www.aclweb.org/anthology/P15-1136/)
 - [NEED4Tweet: A Twitterbot for Tweets Named Entity Extraction and Disambiguation](https://www.aclweb.org/anthology/P15-4006/)
@@ -814,6 +887,8 @@
 - [An Entity-centric Approach for Overcoming Knowledge Graph Sparsity](https://www.aclweb.org/anthology/D15-1061/)
 - [Name List Only? Target Entity Disambiguation in Short Texts](https://www.aclweb.org/anthology/D15-1077/)
 - [Biography-Dependent Collaborative Entity Archiving for Slot Filling](https://www.aclweb.org/anthology/D15-1078/)
+- [Extracting Relations between Non-Standard Entities using Distant Supervision and Imitation Learning](https://www.aclweb.org/anthology/D15-1086/)
+- [Knowledge Base Inference using Bridging Entities](https://www.aclweb.org/anthology/D15-1241/)
 - [ERSOM: A Structural Ontology Matching Approach Using Automatically Learned Entity Representation](https://www.aclweb.org/anthology/D15-1289/)
 ### [CoNLL 2015](https://www.aclweb.org/anthology/events/conll-2015/)
 
@@ -822,6 +897,7 @@
 
 #### EL
 - [Entity Linking Korean Text: An Unsupervised Learning Approach using Semantic Relations](https://www.aclweb.org/anthology/K15-1014/)
+- [Linking Entities Across Images and Text](https://www.aclweb.org/anthology/K15-1019/)
 
 #### Entity Typing
 
