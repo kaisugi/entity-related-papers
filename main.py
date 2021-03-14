@@ -50,7 +50,7 @@ for name, url in urls:
     t_type = "\n#### Entity Typing\n"
     t_others = "\n#### misc\n"
 
-    r = requests.get(url)
+    r = requests.get(url, headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"})
     soup = BeautifulSoup(r.text, 'lxml')
 
     divs = soup.find_all('span', {'class': 'd-block'})
