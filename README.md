@@ -52,9 +52,152 @@
 
 
 #### NER
+- [Nested Named Entity Recognition via Second-best Sequence Learning and Decoding](https://www.aclweb.org/anthology/2020.tacl-1.39/)
 
 #### EL
 - [Improving Candidate Generation for Low-resource Cross-lingual Entity Linking](https://www.aclweb.org/anthology/2020.tacl-1.8/)
+
+#### Entity Typing
+
+#### misc
+### [EMNLP 2020](https://www.aclweb.org/anthology/events/emnlp-2020/)
+
+
+#### NER
+- [Named Entity Recognition for Social Media Texts with Semantic Augmentation](https://www.aclweb.org/anthology/2020.emnlp-main.107/)
+- [HIT: Nested Named Entity Recognition via Head-Tail Pair and Token Interaction](https://www.aclweb.org/anthology/2020.emnlp-main.486/)
+- [Interpretable Multi-dataset Evaluation for Named Entity Recognition](https://www.aclweb.org/anthology/2020.emnlp-main.489/)
+- [Coarse-to-Fine Pre-training for Named Entity Recognition](https://www.aclweb.org/anthology/2020.emnlp-main.514/)
+- [Simple and Effective Few-Shot Named Entity Recognition with Structured Nearest Neighbor Learning](https://www.aclweb.org/anthology/2020.emnlp-main.516/)
+- [Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition](https://www.aclweb.org/anthology/2020.emnlp-main.590/)
+- [A Rigorous Study on Named Entity Recognition: Can Fine-tuning Pretrained Model Lead to the Promised Land?](https://www.aclweb.org/anthology/2020.emnlp-main.592/)
+- [Named Entity Recognition Only from Word Embeddings](https://www.aclweb.org/anthology/2020.emnlp-main.723/)
+- [BioBERTpt - A Portuguese Neural Language Model for Clinical Named Entity Recognition](https://www.aclweb.org/anthology/2020.clinicalnlp-1.7/)
+- [Assessment of DistilBERT performance on Named Entity Recognition task for the detection of Protected Health Information and medical concepts](https://www.aclweb.org/anthology/2020.clinicalnlp-1.18/)
+- [Joint Learning with Pre-trained Transformer on Named Entity Recognition and Relation Extraction Tasks for Clinical Analytics](https://www.aclweb.org/anthology/2020.clinicalnlp-1.26/)
+- [The Chilean Waiting List Corpus: a new resource for clinical Named Entity Recognition in Spanish](https://www.aclweb.org/anthology/2020.clinicalnlp-1.32/)
+- [Toward Recognizing More Entity Types in NER: An Efficient Implementation using Only Entity Lexicons](https://www.aclweb.org/anthology/2020.findings-emnlp.60/)
+- [Inexpensive Domain Adaptation of Pretrained Language Models: Case Studies on Biomedical NER and Covid-19 QA](https://www.aclweb.org/anthology/2020.findings-emnlp.134/)
+- [Constrained Decoding for Computationally Efficient Named Entity Recognition Taggers](https://www.aclweb.org/anthology/2020.findings-emnlp.166/)
+- [A Dual-Attention Network for Joint Named Entity Recognition and Sentence Classification of Adverse Drug Events](https://www.aclweb.org/anthology/2020.findings-emnlp.306/)
+- [Improving Named Entity Recognition with Attentive Ensemble of Syntactic Information](https://www.aclweb.org/anthology/2020.findings-emnlp.378/)
+- [Hierarchical Region Learning for Nested Named Entity Recognition](https://www.aclweb.org/anthology/2020.findings-emnlp.430/)
+- [If You Build Your Own NER Scorer, Non-replicable Results Will Come](https://www.aclweb.org/anthology/2020.insights-1.15/)
+- [The Impact of De-identification on Downstream Named Entity Recognition in Clinical Text](https://www.aclweb.org/anthology/2020.louhi-1.1/)
+- [Annotating the Pandemic: Named Entity Recognition and Normalisation in COVID-19 Literature](https://www.aclweb.org/anthology/2020.nlpcovid19-2.27/)
+- [Acknowledgement Entity Recognition in CORD-19 Papers](https://www.aclweb.org/anthology/2020.sdp-1.3/)
+- [May I Ask Who’s Calling? Named Entity Recognition on Call Center Transcripts for Privacy Law Compliance](https://www.aclweb.org/anthology/2020.wnut-1.1/)
+- [IITKGP at W-NUT 2020 Shared Task-1: Domain specific BERT representation for Named Entity Recognition of lab protocol](https://www.aclweb.org/anthology/2020.wnut-1.34/)
+- [PublishInCovid19 at WNUT 2020 Shared Task-1: Entity Recognition in Wet Lab Protocols using Structured Learning Ensemble and Contextualised Embeddings](https://www.aclweb.org/anthology/2020.wnut-1.35/)
+- [WNUT 2020 Shared Task-1: Conditional Random Field(CRF) based Named Entity Recognition(NER) for Wet Lab Protocols](https://www.aclweb.org/anthology/2020.wnut-1.37/)
+- [mgsohrab at WNUT 2020 Shared Task-1: Neural Exhaustive Approach for Entity and Relation Recognition Over Wet Lab Protocols](https://www.aclweb.org/anthology/2020.wnut-1.38/)
+- [BiTeM at WNUT 2020 Shared Task-1: Named Entity Recognition over Wet Lab Protocols using an Ensemble of Contextual Language Models](https://www.aclweb.org/anthology/2020.wnut-1.40/)
+
+#### EL
+- [COMETA: A Corpus for Medical Entity Linking in the Social Media](https://www.aclweb.org/anthology/2020.emnlp-main.253/)
+- [Scalable Zero-shot Entity Linking with Dense Entity Retrieval](https://www.aclweb.org/anthology/2020.emnlp-main.519/)
+- [Design Challenges in Low-resource Cross-lingual Entity Linking](https://www.aclweb.org/anthology/2020.emnlp-main.521/)
+- [Efficient One-Pass End-to-End Entity Linking for Questions](https://www.aclweb.org/anthology/2020.emnlp-main.522/)
+- [Entity Linking in 100 Languages](https://www.aclweb.org/anthology/2020.emnlp-main.630/)
+- [BENNERD: A Neural Named Entity Linking System for COVID-19](https://www.aclweb.org/anthology/2020.emnlp-demos.24/)
+- [Zero-shot Entity Linking with Efficient Long Range Sequence Modeling](https://www.aclweb.org/anthology/2020.findings-emnlp.228/)
+- [Joint Intent Detection and Entity Linking on Spatial Domain Queries](https://www.aclweb.org/anthology/2020.findings-emnlp.444/)
+- [Simple Hierarchical Multi-Task Neural End-To-End Entity Linking for Biomedical Text](https://www.aclweb.org/anthology/2020.louhi-1.2/)
+- [Tweeki: Linking Named Entities on Twitter to a Knowledge Graph](https://www.aclweb.org/anthology/2020.wnut-1.29/)
+
+#### Entity Typing
+- [ENTYFI: A System for Fine-grained Entity Typing in Fictional Texts](https://www.aclweb.org/anthology/2020.emnlp-demos.14/)
+- [On the Complementary Nature of Knowledge Graph Embedding, Fine Grain Entity Types, and Language Modeling](https://www.aclweb.org/anthology/2020.deelio-1.11/)
+- [AutoETER: Automated Entity Type Representation for Knowledge Graph Embedding](https://www.aclweb.org/anthology/2020.findings-emnlp.105/)
+
+#### misc
+- [ENT-DESC: Entity Description Generation by Exploring Knowledge Graph](https://www.aclweb.org/anthology/2020.emnlp-main.90/)
+- [A Knowledge-driven Generative Model for Multi-implication Chinese Medical Procedure Entity Normalization](https://www.aclweb.org/anthology/2020.emnlp-main.116/)
+- [Knowledge Graph Alignment with Entity-Pair Embedding](https://www.aclweb.org/anthology/2020.emnlp-main.130/)
+- [Pre-training Entity Relation Encoder with Intra-span and Inter-span Information](https://www.aclweb.org/anthology/2020.emnlp-main.132/)
+- [Two are Better than One: Joint Entity and Relation Extraction with Table-Sequence Encoders](https://www.aclweb.org/anthology/2020.emnlp-main.133/)
+- [Recurrent Interaction Network for Jointly Extracting Entities and Classifying Relations](https://www.aclweb.org/anthology/2020.emnlp-main.304/)
+- [Entities as Experts: Sparse Memory Access with Entity Supervision](https://www.aclweb.org/anthology/2020.emnlp-main.400/)
+- [Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment](https://www.aclweb.org/anthology/2020.emnlp-main.515/)
+- [Learning Structured Representations of Entity Names using ActiveLearning and Weak Supervision](https://www.aclweb.org/anthology/2020.emnlp-main.517/)
+- [Entity Enhanced BERT Pre-training for Chinese NER](https://www.aclweb.org/anthology/2020.emnlp-main.518/)
+- [A Dataset for Tracking Entities in Open Domain Procedural Text](https://www.aclweb.org/anthology/2020.emnlp-main.520/)
+- [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention](https://www.aclweb.org/anthology/2020.emnlp-main.523/)
+- [Conundrums in Entity Coreference Resolution: Making Sense of the State of the Art](https://www.aclweb.org/anthology/2020.emnlp-main.536/)
+- [Understanding Procedural Text using Interactive Entity Networks](https://www.aclweb.org/anthology/2020.emnlp-main.591/)
+- [TESA: A Task in Entity Semantic Aggregation for Abstractive Summarization](https://www.aclweb.org/anthology/2020.emnlp-main.646/)
+- [SynSetExpan: An Iterative Framework for Joint Entity Set Expansion and Synonym Discovery](https://www.aclweb.org/anthology/2020.emnlp-main.666/)
+- [To Schedule or not to Schedule: Extracting Task Specific Temporal Entities and Associated Negation Constraints](https://www.aclweb.org/anthology/2020.emnlp-main.678/)
+- [Wikipedia2Vec: An Efficient Toolkit for Learning and Visualizing the Embeddings of Words and Entities from Wikipedia](https://www.aclweb.org/anthology/2020.emnlp-demos.4/)
+- [Reducing Unintended Identity Bias in Russian Hate Speech Detection](https://www.aclweb.org/anthology/2020.alw-1.8/)
+- [Exploring Neural Entity Representations for Semantic Information](https://www.aclweb.org/anthology/2020.blackboxnlp-1.20/)
+- [Evaluation of Transfer Learning for Adverse Drug Event (ADE) and Medication Entity Extraction](https://www.aclweb.org/anthology/2020.clinicalnlp-1.6/)
+- [Using Type Information to Improve Entity Coreference Resolution](https://www.aclweb.org/anthology/2020.codi-1.3/)
+- [Entity Attribute Relation Extraction with Attribute-Aware Embeddings](https://www.aclweb.org/anthology/2020.deelio-1.6/)
+- [Minimize Exposure Bias of Seq2Seq Models in Joint Entity and Relation Extraction](https://www.aclweb.org/anthology/2020.findings-emnlp.23/)
+- [Interpretable Entity Representations through Large-Scale Typing](https://www.aclweb.org/anthology/2020.findings-emnlp.54/)
+- [Pruning Redundant Mappings in Transformer Models via Spectral-Normalized Identity Prior](https://www.aclweb.org/anthology/2020.findings-emnlp.64/)
+- [E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT](https://www.aclweb.org/anthology/2020.findings-emnlp.71/)
+- [Global Bootstrapping Neural Network for Entity Set Expansion](https://www.aclweb.org/anthology/2020.findings-emnlp.331/)
+- [COVID-19: A Semantic-Based Pipeline for Recommending Biomedical Entities](https://www.aclweb.org/anthology/2020.nlpcovid19-2.20/)
+- [Emoji and Self-Identity in Twitter Bios](https://www.aclweb.org/anthology/2020.nlpcss-1.22/)
+- [Identifying and Classifying Third-party Entities in Natural Language Privacy Policies](https://www.aclweb.org/anthology/2020.privatenlp-1.3/)
+- [ERLKG: Entity Representation Learning and Knowledge Graph based association analysis of COVID-19 through mining of unstructured biomedical corpora](https://www.aclweb.org/anthology/2020.sdp-1.15/)
+- [Structured Prediction for Joint Class Cardinality and Entity Property Inference in Model-Complete Text Comprehension](https://www.aclweb.org/anthology/2020.spnlp-1.4/)
+- [WNUT-2020 Task 1 Overview: Extracting Entities and Relations from Wet Lab Protocols](https://www.aclweb.org/anthology/2020.wnut-1.33/)
+- [Fancy Man Launches Zippo at WNUT 2020 Shared Task-1: A Bert Case Model for Wet Lab Entity Extraction](https://www.aclweb.org/anthology/2020.wnut-1.39/)
+- [Winners at W-NUT 2020 Shared Task-3: Leveraging Event Specific and Chunk Span information for Extracting COVID Entities from Tweets](https://www.aclweb.org/anthology/2020.wnut-1.79/)
+### [COLING 2020](https://www.aclweb.org/anthology/events/coling-2020/)
+
+
+#### NER
+- [Leveraging HTML in Free Text Web Named Entity Recognition](https://www.aclweb.org/anthology/2020.coling-main.36/)
+- [Named Entity Recognition for Chinese biomedical patents](https://www.aclweb.org/anthology/2020.coling-main.54/)
+- [Exploring Cross-sentence Contexts for Named Entity Recognition with BERT](https://www.aclweb.org/anthology/2020.coling-main.78/)
+- [Evaluating Pretrained Transformer-based Models on the Task of Fine-Grained Named Entity Recognition](https://www.aclweb.org/anthology/2020.coling-main.334/)
+- [An Analysis of Simple Data Augmentation for Named Entity Recognition](https://www.aclweb.org/anthology/2020.coling-main.343/)
+- [Identifying Motion Entities in Natural Language and A Case Study for Named Entity Recognition](https://www.aclweb.org/anthology/2020.coling-main.460/)
+- [Neural Language Modeling for Named Entity Recognition](https://www.aclweb.org/anthology/2020.coling-main.612/)
+- [Exhaustive Entity Recognition for Coptic: Challenges and Solutions](https://www.aclweb.org/anthology/2020.latechclfl-1.3/)
+- [Merge and Recognize: A Geometry and 2D Context Aware Graph Model for Named Entity Recognition from Visual Documents](https://www.aclweb.org/anthology/2020.textgraphs-1.3/)
+- [A Semi-Supervised BERT Approach for Arabic Named Entity Recognition](https://www.aclweb.org/anthology/2020.wanlp-1.5/)
+
+#### EL
+- [TPLinker: Single-stage Joint Extraction of Entities and Relations Through Token Pair Linking](https://www.aclweb.org/anthology/2020.coling-main.138/)
+- [TrainX – Named Entity Linking with Active Sampling and Bi-Encoders](https://www.aclweb.org/anthology/2020.coling-demos.12/)
+
+#### Entity Typing
+- [MZET: Memory Augmented Zero-Shot Fine-grained Named Entity Typing](https://www.aclweb.org/anthology/2020.coling-main.7/)
+- [ManyEnt: A Dataset for Few-shot Entity Typing](https://www.aclweb.org/anthology/2020.coling-main.486/)
+
+#### misc
+- [Building Hierarchically Disentangled Language Models for Text Generation with Named Entities](https://www.aclweb.org/anthology/2020.coling-main.3/)
+- [Span-based Joint Entity and Relation Extraction with Attention-based Span-specific and Contextual Semantic Representations](https://www.aclweb.org/anthology/2020.coling-main.8/)
+- [CEREC: A Corpus for Entity Resolution in Email Conversations](https://www.aclweb.org/anthology/2020.coling-main.30/)
+- [Joint Entity and Relation Extraction for Legal Documents with Legal Feature Enhancement](https://www.aclweb.org/anthology/2020.coling-main.137/)
+- [Referring to what you know and do not know: Making Referring Expression Generation Models Generalize To Unseen Entities](https://www.aclweb.org/anthology/2020.coling-main.205/)
+- [Dual Attention Network for Cross-lingual Entity Alignment](https://www.aclweb.org/anthology/2020.coling-main.284/)
+- [Knowledge Graph Enhanced Neural Machine Translation via Multi-task Learning on Sub-entity Granularity](https://www.aclweb.org/anthology/2020.coling-main.397/)
+- [Semi-supervised URL Segmentation with Recurrent Neural Networks Pre-trained on Knowledge Graph Entities](https://www.aclweb.org/anthology/2020.coling-main.411/)
+- [Utilizing Subword Entities in Character-Level Sequence-to-Sequence Lemmatization Models](https://www.aclweb.org/anthology/2020.coling-main.412/)
+- [A Mixture-of-Experts Model for Learning Multi-Facet Entity Embeddings](https://www.aclweb.org/anthology/2020.coling-main.449/)
+- [Controllable Abstractive Sentence Summarization with Guiding Entities](https://www.aclweb.org/anthology/2020.coling-main.497/)
+- [Learning to Decouple Relations: Few-Shot Relation Classification with Entity-Guided Attention and Confusion-Aware Training](https://www.aclweb.org/anthology/2020.coling-main.510/)
+- [A Contextual Alignment Enhanced Cross Graph Attention Network for Cross-lingual Entity Alignment](https://www.aclweb.org/anthology/2020.coling-main.520/)
+- [DaN+: Danish Nested Named Entities and Lexical Normalization](https://www.aclweb.org/anthology/2020.coling-main.583/)
+- [An Industry Evaluation of Embedding-based Entity Alignment](https://www.aclweb.org/anthology/2020.coling-industry.17/)
+- [E.T.: Entity-Transformers. Coreference augmented Neural Language Model for richer mention representations via Entity-Transformer blocks](https://www.aclweb.org/anthology/2020.crac-1.1/)
+- [DUTH at SemEval-2020 Task 11: BERT with Entity Mapping for Propaganda Classification](https://www.aclweb.org/anthology/2020.semeval-1.227/)
+- [A survey of embedding models of entities and relationships for knowledge graph completion](https://www.aclweb.org/anthology/2020.textgraphs-1.1/)
+- [Graph-based Aspect Representation Learning for Entity Resolution](https://www.aclweb.org/anthology/2020.textgraphs-1.2/)
+### [CoNLL 2020](https://www.aclweb.org/anthology/events/conll-2020/)
+
+
+#### NER
+- [Alleviating Digitization Errors in Named Entity Recognition for Historical Documents](https://www.aclweb.org/anthology/2020.conll-1.35/)
+
+#### EL
+- [In Media Res: A Corpus for Evaluating Named Entity Linking with Creative Works](https://www.aclweb.org/anthology/2020.conll-1.28/)
 
 #### Entity Typing
 

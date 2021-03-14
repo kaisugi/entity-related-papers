@@ -4,6 +4,9 @@ from bs4 import BeautifulSoup
 urls = [
     ("ACL 2020", "https://www.aclweb.org/anthology/events/acl-2020/"),
     ("TACL 2020", "https://www.aclweb.org/anthology/events/tacl-2020/"),
+    ("EMNLP 2020", "https://www.aclweb.org/anthology/events/emnlp-2020/"),
+    ("COLING 2020", "https://www.aclweb.org/anthology/events/coling-2020/"),
+    ("CoNLL 2020", "https://www.aclweb.org/anthology/events/conll-2020/"),
     ("LREC 2020", "https://www.aclweb.org/anthology/events/lrec-2020/"),
     ("ACL 2019", "https://www.aclweb.org/anthology/events/acl-2019/"),
     ("TACL 2019", "https://www.aclweb.org/anthology/events/tacl-2019/"),
