@@ -74,7 +74,7 @@ for name, url, date in urls:
         found_rec = "Recogn" in text or "recogn" in text or " NER " in text
         found_link = "Link" in text or "link" in text or " NEL " in text or " EL " in text 
         found_type = "Entity Typing" in text or "Entity Type" in text
-        found_repre = "Representation" in text or "Embedding" in text
+        found_repre = "Representation" in text or "representation" in text or "Embedding" in text or "embedding" in text
 
         if found:
             if found_rec:

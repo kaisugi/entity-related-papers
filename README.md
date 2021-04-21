@@ -41,6 +41,8 @@
 - [Span-based Joint Entity and Relation Extraction with Attention-based Span-specific and Contextual Semantic Representations](https://www.aclweb.org/anthology/2020.coling-main.8/)
 - [A Mixture-of-Experts Model for Learning Multi-Facet Entity Embeddings](https://www.aclweb.org/anthology/2020.coling-main.449/)
 - [An Industry Evaluation of Embedding-based Entity Alignment](https://www.aclweb.org/anthology/2020.coling-industry.17/)
+- [E.T.: Entity-Transformers. Coreference augmented Neural Language Model for richer mention representations via Entity-Transformer blocks](https://www.aclweb.org/anthology/2020.crac-1.1/)
+- [A survey of embedding models of entities and relationships for knowledge graph completion](https://www.aclweb.org/anthology/2020.textgraphs-1.1/)
 - [Graph-based Aspect Representation Learning for Entity Resolution](https://www.aclweb.org/anthology/2020.textgraphs-1.2/)
 
 #### misc
@@ -56,9 +58,7 @@
 - [Learning to Decouple Relations: Few-Shot Relation Classification with Entity-Guided Attention and Confusion-Aware Training](https://www.aclweb.org/anthology/2020.coling-main.510/)
 - [A Contextual Alignment Enhanced Cross Graph Attention Network for Cross-lingual Entity Alignment](https://www.aclweb.org/anthology/2020.coling-main.520/)
 - [DaN+: Danish Nested Named Entities and Lexical Normalization](https://www.aclweb.org/anthology/2020.coling-main.583/)
-- [E.T.: Entity-Transformers. Coreference augmented Neural Language Model for richer mention representations via Entity-Transformer blocks](https://www.aclweb.org/anthology/2020.crac-1.1/)
 - [DUTH at SemEval-2020 Task 11: BERT with Entity Mapping for Propaganda Classification](https://www.aclweb.org/anthology/2020.semeval-1.227/)
-- [A survey of embedding models of entities and relationships for knowledge graph completion](https://www.aclweb.org/anthology/2020.textgraphs-1.1/)
 ### [CoNLL 2020](https://www.aclweb.org/anthology/events/conll-2020/) (2020/11/19 ~ 2020/11/20)
 
 
@@ -693,13 +693,13 @@
 - [Transforming Wikipedia into a Large-Scale Fine-Grained Entity Type Corpus](https://www.aclweb.org/anthology/L18-1699/)
 
 #### Entity Representations / Embeddings
+- [Combining rule-based and embedding-based approaches to normalize textual entities with an ontology](https://www.aclweb.org/anthology/L18-1543/)
 - [Extended HowNet 2.0 – An Entity-Relation Common-Sense Representation Model](https://www.aclweb.org/anthology/L18-1724/)
 
 #### misc
 - [Medical Entity Corpus with PICO elements and Sentiment Analysis](https://www.aclweb.org/anthology/L18-1044/)
 - [A Deep Neural Network based Approach for Entity Extraction in Code-Mixed Indian Social Media Text](https://www.aclweb.org/anthology/L18-1278/)
 - [A Multilingual Test Collection for the Semantic Search of Entity Categories](https://www.aclweb.org/anthology/L18-1398/)
-- [Combining rule-based and embedding-based approaches to normalize textual entities with an ontology](https://www.aclweb.org/anthology/L18-1543/)
 - [Adding Syntactic Annotations to Flickr30k Entities Corpus for Multimodal Ambiguous Prepositional-Phrase Attachment Resolution](https://www.aclweb.org/anthology/L18-1716/)
 ### [TACL 2017](https://www.aclweb.org/anthology/events/tacl-2017/)
 
@@ -971,12 +971,12 @@
 #### Entity Typing
 
 #### Entity Representations / Embeddings
+- [STransE: a novel embedding model of entities and relationships in knowledge bases](https://www.aclweb.org/anthology/N16-1054/)
 - [Dynamic Entity Representation with Max-pooling Improves Machine Reading](https://www.aclweb.org/anthology/N16-1099/)
 
 #### misc
 - [Entity-balanced Gaussian pLSA for Automated Comparison](https://www.aclweb.org/anthology/N16-1009/)
 - [Joint Extraction of Events and Entities within a Document Context](https://www.aclweb.org/anthology/N16-1033/)
-- [STransE: a novel embedding model of entities and relationships in knowledge bases](https://www.aclweb.org/anthology/N16-1054/)
 - [Unsupervised Ranking Model for Entity Coreference Resolution](https://www.aclweb.org/anthology/N16-1116/)
 ### [LREC 2016](https://www.aclweb.org/anthology/events/lrec-2016/) (2016/05/23 ~ 2016/05/28)
 
