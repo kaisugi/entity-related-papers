@@ -2,52 +2,56 @@ import requests
 from bs4 import BeautifulSoup
 
 urls = [
-    ("ACL 2020", "https://www.aclweb.org/anthology/events/acl-2020/"),
-    ("TACL 2020", "https://www.aclweb.org/anthology/events/tacl-2020/"),
-    ("EMNLP 2020", "https://www.aclweb.org/anthology/events/emnlp-2020/"),
-    ("COLING 2020", "https://www.aclweb.org/anthology/events/coling-2020/"),
-    ("CoNLL 2020", "https://www.aclweb.org/anthology/events/conll-2020/"),
-    ("LREC 2020", "https://www.aclweb.org/anthology/events/lrec-2020/"),
-    ("ACL 2019", "https://www.aclweb.org/anthology/events/acl-2019/"),
-    ("TACL 2019", "https://www.aclweb.org/anthology/events/tacl-2019/"),
-    ("NAACL 2019", "https://www.aclweb.org/anthology/events/naacl-2019/"),
-    ("EMNLP-IJCNLP 2019", "https://www.aclweb.org/anthology/events/emnlp-2019/"),
-    ("CoNLL 2019", "https://www.aclweb.org/anthology/events/conll-2019/"),
-    ("ACL 2018", "https://www.aclweb.org/anthology/events/acl-2018/"),
-    ("TACL 2018", "https://www.aclweb.org/anthology/events/tacl-2018/"),
-    ("NAACL 2018", "https://www.aclweb.org/anthology/events/naacl-2018/"),
-    ("EMNLP 2018", "https://www.aclweb.org/anthology/events/emnlp-2018/"),
-    ("COLING 2018", "https://www.aclweb.org/anthology/events/coling-2018/"),
-    ("CoNLL 2018", "https://www.aclweb.org/anthology/events/conll-2018/"),
-    ("LREC 2018", "https://www.aclweb.org/anthology/events/lrec-2018/"),
-    ("PACLIC 2018", "https://www.aclweb.org/anthology/events/paclic-2018/"),
-    ("ACL 2017", "https://www.aclweb.org/anthology/events/acl-2017/"),
-    ("TACL 2017", "https://www.aclweb.org/anthology/events/tacl-2017/"),
-    ("EMNLP 2017", "https://www.aclweb.org/anthology/events/emnlp-2017/"),
-    ("EACL 2017", "https://www.aclweb.org/anthology/events/eacl-2017/"),
-    ("IJCNLP 2017", "https://www.aclweb.org/anthology/events/ijcnlp-2017/"),
-    ("CoNLL 2017", "https://www.aclweb.org/anthology/events/conll-2017/"),
-    ("PACLIC 2017", "https://www.aclweb.org/anthology/events/paclic-2017/"),
-    ("ACL 2016", "https://www.aclweb.org/anthology/events/acl-2016/"),
-    ("TACL 2016", "https://www.aclweb.org/anthology/events/tacl-2016/"),
-    ("NAACL 2016", "https://www.aclweb.org/anthology/events/naacl-2016/"),
-    ("EMNLP 2016", "https://www.aclweb.org/anthology/events/emnlp-2016/"),
-    ("COLING 2016", "https://www.aclweb.org/anthology/events/coling-2016/"),
-    ("CoNLL 2016", "https://www.aclweb.org/anthology/events/conll-2016/"),
-    ("LREC 2016", "https://www.aclweb.org/anthology/events/lrec-2016/"),
-    ("PACLIC 2016", "https://www.aclweb.org/anthology/events/paclic-2016/"),
-    ("ACL-IJCNLP 2015", "https://www.aclweb.org/anthology/events/acl-2015/"),
-    ("TACL 2015", "https://www.aclweb.org/anthology/events/tacl-2015/"),
-    ("NAACL 2015", "https://www.aclweb.org/anthology/events/naacl-2015/"),
-    ("EMNLP 2015", "https://www.aclweb.org/anthology/events/emnlp-2015/"),
-    ("CoNLL 2015", "https://www.aclweb.org/anthology/events/conll-2015/"),
-    ("PACLIC 2015", "https://www.aclweb.org/anthology/events/paclic-2015/")
+    ("TACL 2020", "https://www.aclweb.org/anthology/events/tacl-2020/", None),
+    ("COLING 2020", "https://www.aclweb.org/anthology/events/coling-2020/", "2020/12/08 ~ 2020/12/13"),
+    ("CoNLL 2020", "https://www.aclweb.org/anthology/events/conll-2020/", "2020/11/19 ~ 2020/11/20"),
+    ("EMNLP 2020", "https://www.aclweb.org/anthology/events/emnlp-2020/", "2020/11/16 ~ 2020/11/20"),
+    ("ACL 2020", "https://www.aclweb.org/anthology/events/acl-2020/", "2020/07/05 ~ 2020/07/10"),
+    ("LREC 2020", "https://www.aclweb.org/anthology/events/lrec-2020/", None),
+    ("TACL 2019", "https://www.aclweb.org/anthology/events/tacl-2019/", None),
+    ("EMNLP-IJCNLP 2019", "https://www.aclweb.org/anthology/events/emnlp-2019/", "2019/11/03 ~ 2019/11/07"),
+    ("CoNLL 2019", "https://www.aclweb.org/anthology/events/conll-2019/", "2019/11/03 ~ 2019/11/04"),
+    ("ACL 2019", "https://www.aclweb.org/anthology/events/acl-2019/", "2019/07/28 ~ 2019/08/02"),
+    ("NAACL 2019", "https://www.aclweb.org/anthology/events/naacl-2019/", "2019/06/02 ~ 2019/06/07"),
+    ("TACL 2018", "https://www.aclweb.org/anthology/events/tacl-2018/", None),
+    ("PACLIC 2018", "https://www.aclweb.org/anthology/events/paclic-2018/", "2018/12/01 ~ 2018/12/03"),
+    ("EMNLP 2018", "https://www.aclweb.org/anthology/events/emnlp-2018/", "2018/10/31 ~ 2018/11/04"),
+    ("CoNLL 2018", "https://www.aclweb.org/anthology/events/conll-2018/", "2018/10/31 ~ 2018/11/01"),
+    ("COLING 2018", "https://www.aclweb.org/anthology/events/coling-2018/", "2018/08/20 ~ 2018/08/26"),
+    ("ACL 2018", "https://www.aclweb.org/anthology/events/acl-2018/", "2018/07/15 ~ 2018/07/20"),
+    ("NAACL 2018", "https://www.aclweb.org/anthology/events/naacl-2018/", "2018/06/01 ~ 2018/06/06"),
+    ("LREC 2018", "https://www.aclweb.org/anthology/events/lrec-2018/", "2018/05/07 ~ 2018/05/12"),
+    ("TACL 2017", "https://www.aclweb.org/anthology/events/tacl-2017/", None),
+    ("IJCNLP 2017", "https://www.aclweb.org/anthology/events/ijcnlp-2017/", "2017/11/27 ~ 2017/12/01"),
+    ("PACLIC 2017", "https://www.aclweb.org/anthology/events/paclic-2017/", "2017/11/16 ~ 2017/11/18"),
+    ("EMNLP 2017", "https://www.aclweb.org/anthology/events/emnlp-2017/", "2017/09/07 ~ 2017/09/11"),
+    ("CoNLL 2017", "https://www.aclweb.org/anthology/events/conll-2017/", "2017/08/03 ~ 2017/08/04"),
+    ("ACL 2017", "https://www.aclweb.org/anthology/events/acl-2017/", "2017/07/30 ~ 2017/08/04"),
+    ("EACL 2017", "https://www.aclweb.org/anthology/events/eacl-2017/", "2017/04/03 ~ 2017/04/07"),
+    ("TACL 2016", "https://www.aclweb.org/anthology/events/tacl-2016/", None),
+    ("COLING 2016", "https://www.aclweb.org/anthology/events/coling-2016/", "2016/12/11 ~ 2016/12/16"),
+    ("EMNLP 2016", "https://www.aclweb.org/anthology/events/emnlp-2016/", "2016/11/01 ~ 2016/11/05"),
+    ("PACLIC 2016", "https://www.aclweb.org/anthology/events/paclic-2016/", "2016/10/28 ~ 2016/10/30"),
+    ("CoNLL 2016", "https://www.aclweb.org/anthology/events/conll-2016/", "2016/08/11 ~ 2016/08/12"),
+    ("ACL 2016", "https://www.aclweb.org/anthology/events/acl-2016/", "2016/08/07 ~ 2016/08/12"),
+    ("NAACL 2016", "https://www.aclweb.org/anthology/events/naacl-2016/", "2016/06/12 ~ 2016/06/17"),
+    ("LREC 2016", "https://www.aclweb.org/anthology/events/lrec-2016/", "2016/05/23 ~ 2016/05/28"),
+    ("TACL 2015", "https://www.aclweb.org/anthology/events/tacl-2015/", None),
+    ("PACLIC 2015", "https://www.aclweb.org/anthology/events/paclic-2015/", "2015/10/30 ~ 2015/11/01"),
+    ("EMNLP 2015", "https://www.aclweb.org/anthology/events/emnlp-2015/", "2015/09/17 ~ 2015/09/21"),
+    ("CoNLL 2015", "https://www.aclweb.org/anthology/events/conll-2015/", "2015/07/30 ~ 2015/07/31"),
+    ("ACL-IJCNLP 2015", "https://www.aclweb.org/anthology/events/acl-2015/", "2015/07/26 ~ 2015/07/31"),
+    ("NAACL 2015", "https://www.aclweb.org/anthology/events/naacl-2015/", "2015/05/31 ~ 2015/06/05"),
 ]
 
 txt = "# entity-related-papers\n\n"
 
-for name, url in urls:
-    t = f"### [{name}]({url})\n\n"
+for name, url, date in urls:
+    if date is None:
+        t = f"### [{name}]({url})\n\n"
+    else:
+        t = f"### [{name}]({url}) ({date})\n\n"
+
     t_rec = "\n#### NER\n"
     t_link = "\n#### EL\n"
     t_type = "\n#### Entity Typing\n"
