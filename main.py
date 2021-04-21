@@ -55,6 +55,7 @@ for name, url, date in urls:
     t_rec = "\n#### NER\n"
     t_link = "\n#### EL\n"
     t_type = "\n#### Entity Typing\n"
+    t_repre = "\n#### Entity Representations / Embeddings\n"
     t_others = "\n#### misc\n"
 
     r = requests.get(url, headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"})
@@ -73,6 +74,7 @@ for name, url, date in urls:
         found_rec = "Recogn" in text or "recogn" in text or " NER " in text
         found_link = "Link" in text or "link" in text or " NEL " in text or " EL " in text 
         found_type = "Entity Typing" in text or "Entity Type" in text
+        found_repre = "Representation" in text or "Embedding" in text
 
         if found:
             if found_rec:
@@ -81,10 +83,12 @@ for name, url, date in urls:
                 t_link += item
             elif found_type:
                 t_type += item
+            elif found_repre:
+                t_repre += item
             else:
                 t_others += item
 
-    t += (t_rec + t_link + t_type + t_others)
+    t += (t_rec + t_link + t_type + t_repre + t_others)
     txt += t
 
     
