@@ -6,6 +6,7 @@ urls = [
     ("COLING 2020", "https://www.aclweb.org/anthology/events/coling-2020/", "2020/12/08 ~ 2020/12/13"),
     ("CoNLL 2020", "https://www.aclweb.org/anthology/events/conll-2020/", "2020/11/19 ~ 2020/11/20"),
     ("EMNLP 2020", "https://www.aclweb.org/anthology/events/emnlp-2020/", "2020/11/16 ~ 2020/11/20"),
+    ("EMNLP Findings 2020", "https://www.aclweb.org/anthology/events/findings-2020/", "2020/11/16 ~ 2020/11/20"),
     ("ACL 2020", "https://www.aclweb.org/anthology/events/acl-2020/", "2020/07/05 ~ 2020/07/10"),
     ("LREC 2020", "https://www.aclweb.org/anthology/events/lrec-2020/", None),
     ("TACL 2019", "https://www.aclweb.org/anthology/events/tacl-2019/", None),
