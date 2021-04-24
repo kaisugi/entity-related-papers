@@ -1,5 +1,46 @@
 # entity-related-papers
 
+### [EACL 2021](https://www.aclweb.org/anthology/events/eacl-2021/) (2021/04/19 ~ 2021/04/23)
+
+
+#### NER
+- [GLaRA: Graph-based Labeling Rule Augmentation for Weakly Supervised Named Entity Recognition](https://www.aclweb.org/anthology/2021.eacl-main.318/)
+- [T-NER: An All-Round Python Library for Transformer-based Named Entity Recognition](https://www.aclweb.org/anthology/2021.eacl-demos.7/)
+- [T2NER: Transformers based Transfer Learning Framework for Named Entity Recognition](https://www.aclweb.org/anthology/2021.eacl-demos.25/)
+- [TMR: Evaluating NER Recall on Tough Mentions](https://www.aclweb.org/anthology/2021.eacl-srw.21/)
+- [Multilingual Named Entity Recognition and Matching Using BERT and Dedupe for Slavic Languages](https://www.aclweb.org/anthology/2021.bsnlp-1.9/)
+- [Multilingual Slavic Named Entity Recognition](https://www.aclweb.org/anthology/2021.bsnlp-1.11/)
+- [Using a Frustratingly Easy Domain and Tagset Adaptation for Creating Slavic Named Entity Recognition Systems](https://www.aclweb.org/anthology/2021.bsnlp-1.12/)
+- [Named Entity Recognition and Linking Augmented with Large-Scale Structured Data](https://www.aclweb.org/anthology/2021.bsnlp-1.14/)
+- [Slav-NER: the 3rd Cross-lingual Challenge on Recognition, Normalization, Classification, and Linking of Named Entities across Slavic Languages](https://www.aclweb.org/anthology/2021.bsnlp-1.15/)
+- [Dynamic Ensembles in Named Entity Recognition for Historical Arabic Texts](https://www.aclweb.org/anthology/2021.wanlp-1.12/)
+
+#### EL
+- [CHOLAN: A Modular Approach for Neural Entity Linking on Wikipedia and Wikidata](https://www.aclweb.org/anthology/2021.eacl-main.40/)
+- [Fast and Effective Biomedical Entity Linking Using a Dual Encoder](https://www.aclweb.org/anthology/2021.louhi-1.4/)
+
+#### Entity Typing
+
+#### Entity Representations / Embeddings
+- [Joint Learning of Representations for Web-tables, Entities and Types using Graph Convolutional Network](https://www.aclweb.org/anthology/2021.eacl-main.102/)
+- [Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries](https://www.aclweb.org/anthology/2021.eacl-main.153/)
+- [Event-Driven News Stream Clustering using Entity-Aware Contextual Embeddings](https://www.aclweb.org/anthology/2021.eacl-main.198/)
+- [DOCENT: Learning Self-Supervised Entity Representations from Large Document Collections](https://www.aclweb.org/anthology/2021.eacl-main.217/)
+- [ENPAR:Enhancing Entity and Entity Pair Representations for Joint Entity Relation Extraction](https://www.aclweb.org/anthology/2021.eacl-main.251/)
+- [FuzzyBIO: A Proposal for Fuzzy Representation of Discontinuous Entities](https://www.aclweb.org/anthology/2021.louhi-1.9/)
+
+#### misc
+- [GRIT: Generative Role-filler Transformers for Document-level Event Entity Extraction](https://www.aclweb.org/anthology/2021.eacl-main.52/)
+- [Cross-lingual Entity Alignment with Incidental Supervision](https://www.aclweb.org/anthology/2021.eacl-main.53/)
+- [TDMSci: A Specialized Corpus for Scientific Literature Entity Tagging of Tasks Datasets and Metrics](https://www.aclweb.org/anthology/2021.eacl-main.59/)
+- [Identifying Named Entities as they are Typed](https://www.aclweb.org/anthology/2021.eacl-main.84/)
+- [Multilingual Entity and Relation Extraction Dataset and Model](https://www.aclweb.org/anthology/2021.eacl-main.166/)
+- [Boosting Low-Resource Biomedical QA via Entity-Aware Masking Strategies](https://www.aclweb.org/anthology/2021.eacl-main.169/)
+- [Entity-level Factual Consistency of Abstractive Text Summarization](https://www.aclweb.org/anthology/2021.eacl-main.235/)
+- [Enconter: Entity Constrained Progressive Sequence Generation via Insertion-based Transformer](https://www.aclweb.org/anthology/2021.eacl-main.313/)
+- [An End-to-end Model for Entity-level Relation Extraction using Multi-instance Learning](https://www.aclweb.org/anthology/2021.eacl-main.319/)
+- [Related Named Entities Classification in the Economic-Financial Context](https://www.aclweb.org/anthology/2021.hackashop-1.2/)
+- [SERAG: Semantic Entity Retrieval from Arabic Knowledge Graphs](https://www.aclweb.org/anthology/2021.wanlp-1.24/)
 ### [TACL 2020](https://www.aclweb.org/anthology/events/tacl-2020/)
 
 
