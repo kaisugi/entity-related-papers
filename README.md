@@ -1,5 +1,59 @@
 # entity-related-papers
 
+### [TACL 2021](https://www.aclweb.org/anthology/events/tacl-2021/)
+
+
+#### NER
+
+#### EL
+
+#### Entity Typing
+
+#### Entity Representations / Embeddings
+
+#### misc
+### [NAACL 2021](https://www.aclweb.org/anthology/events/naacl-2021/) (2021/06/06 ~ 2021/06/11)
+
+
+#### NER
+- [GEMNET: Effective Gated Gazetteer Representations for Recognizing Complex Entities in Low-context Input](https://www.aclweb.org/anthology/2021.naacl-main.118/)
+- [COVID-19 Named Entity Recognition for Vietnamese](https://www.aclweb.org/anthology/2021.naacl-main.173/)
+- [Noisy-Labeled NER with Confidence Estimation](https://www.aclweb.org/anthology/2021.naacl-main.269/)
+- [Better Feature Integration for Named Entity Recognition](https://www.aclweb.org/anthology/2021.naacl-main.271/)
+- [Multi-Grained Knowledge Distillation for Named Entity Recognition](https://www.aclweb.org/anthology/2021.naacl-main.454/)
+- [PhoNLP: A joint multi-task learning model for Vietnamese part-of-speech tagging, named entity recognition and dependency parsing](https://www.aclweb.org/anthology/2021.naacl-demos.1/)
+- [Building Low-Resource NER Models Using Non-Speaker Annotations](https://www.aclweb.org/anthology/2021.dash-1.11/)
+- [Neural Text Classification and Stacked Heterogeneous Embeddings for Named Entity Recognition in SMM4H 2021](https://www.aclweb.org/anthology/2021.smm4h-1.14/)
+- [Lasige-BioTM at ProfNER: BiLSTM-CRF and contextual Spanish embeddings for Named Entity Recognition and Tweet Binary Classification](https://www.aclweb.org/anthology/2021.smm4h-1.21/)
+- [Assessing multiple word embeddings for named entity recognition of professions and occupations in health-related social media](https://www.aclweb.org/anthology/2021.smm4h-1.27/)
+- [Mitigating Temporal-Drift: A Simple Approach to Keep NER Models Crisp](https://www.aclweb.org/anthology/2021.socialnlp-1.14/)
+
+#### EL
+- [Linking Entities to Unseen Knowledge Bases with Arbitrary Schemas](https://www.aclweb.org/anthology/2021.naacl-main.65/)
+- [Clustering-based Inference for Biomedical Entity Linking](https://www.aclweb.org/anthology/2021.naacl-main.205/)
+- [Wikipedia Entities as Rendezvous across Languages: Grounding Multilingual Language Models by Predicting Wikipedia Hyperlinks](https://www.aclweb.org/anthology/2021.naacl-main.286/)
+- [Goodwill Hunting: Analyzing and Repurposing Off-the-Shelf Named Entity Linking Systems](https://www.aclweb.org/anthology/2021.naacl-industry.26/)
+- [End-to-end Biomedical Entity Linking with Span-based Dictionary Matching](https://www.aclweb.org/anthology/2021.bionlp-1.18/)
+- [Human-In-The-LoopEntity Linking for Low Resource Domains](https://www.aclweb.org/anthology/2021.dash-1.6/)
+
+#### Entity Typing
+
+#### Entity Representations / Embeddings
+- [Evaluating the Impact of a Hierarchical Discourse Representation on Entity Coreference Resolution Performance](https://www.aclweb.org/anthology/2021.naacl-main.130/)
+- [Integrating Lexical Information into Entity Neighbourhood Representations for Relation Prediction](https://www.aclweb.org/anthology/2021.naacl-main.268/)
+- [Self-Alignment Pretraining for Biomedical Entity Representations](https://www.aclweb.org/anthology/2021.naacl-main.334/)
+
+#### misc
+- [A Frustratingly Easy Approach for Entity and Relation Extraction](https://www.aclweb.org/anthology/2021.naacl-main.5/)
+- [tWT–WT: A Dataset to Assert the Role of Target Entities for Detecting Stance of Tweets](https://www.aclweb.org/anthology/2021.naacl-main.303/)
+- [Modeling Human Mental States with an Entity-based Narrative Graph](https://www.aclweb.org/anthology/2021.naacl-main.391/)
+- [Optimizing NLU Reranking Using Entity Resolution Signals in Multi-domain Dialog Systems](https://www.aclweb.org/anthology/2021.naacl-industry.3/)
+- [Entity Resolution in Open-domain Conversations](https://www.aclweb.org/anthology/2021.naacl-industry.4/)
+- [Noise Robust Named Entity Understanding for Voice Assistants](https://www.aclweb.org/anthology/2021.naacl-industry.25/)
+- [EntityBERT: Entity-centric Masking Strategy for Model Pretraining for the Clinical Domain](https://www.aclweb.org/anthology/2021.bionlp-1.21/)
+- [MEAN: Multi-head Entity Aware Attention Networkfor Political Perspective Detection in News Media](https://www.aclweb.org/anthology/2021.nlp4if-1.10/)
+- [Analysis of Nuanced Stances and Sentiment Towards Entities of US Politicians through the Lens of Moral Foundation Theory](https://www.aclweb.org/anthology/2021.socialnlp-1.1/)
+- [xER: An Explainable Model for Entity Resolution using an Efficient Solution for the Clique Partitioning Problem](https://www.aclweb.org/anthology/2021.trustnlp-1.5/)
 ### [EACL 2021](https://www.aclweb.org/anthology/events/eacl-2021/) (2021/04/19 ~ 2021/04/23)
 
 

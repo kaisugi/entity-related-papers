@@ -1,7 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
+from tqdm import tqdm
 
 urls = [
+    ("TACL 2021", "https://www.aclweb.org/anthology/events/tacl-2021/", None),
+    ("NAACL 2021", "https://www.aclweb.org/anthology/events/naacl-2021/", "2021/06/06 ~ 2021/06/11"),
     ("EACL 2021", "https://www.aclweb.org/anthology/events/eacl-2021/", "2021/04/19 ~ 2021/04/23"),
     ("TACL 2020", "https://www.aclweb.org/anthology/events/tacl-2020/", None),
     ("COLING 2020", "https://www.aclweb.org/anthology/events/coling-2020/", "2020/12/08 ~ 2020/12/13"),
@@ -48,7 +51,7 @@ urls = [
 
 txt = "# entity-related-papers\n\n"
 
-for name, url, date in urls:
+for name, url, date in tqdm(urls):
     if date is None:
         t = f"### [{name}]({url})\n\n"
     else:

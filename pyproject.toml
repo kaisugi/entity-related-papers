@@ -9,6 +9,7 @@ python = "^3.8"
 requests = "^2.24.0"
 beautifulsoup4 = "^4.9.2"
 lxml = "^4.5.2"
+tqdm = "^4.61.0"
 
 [tool.poetry.dev-dependencies]
 
