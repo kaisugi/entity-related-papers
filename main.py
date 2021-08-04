@@ -4,6 +4,7 @@ from tqdm import tqdm
 
 urls = [
     ("TACL 2021", "https://www.aclweb.org/anthology/events/tacl-2021/", None),
+    ("ACL-IJCNLP 2021", "https://aclanthology.org/events/acl-2021/", "2021/08/01 ~ 2021/08/06"),
     ("NAACL 2021", "https://www.aclweb.org/anthology/events/naacl-2021/", "2021/06/06 ~ 2021/06/11"),
     ("EACL 2021", "https://www.aclweb.org/anthology/events/eacl-2021/", "2021/04/19 ~ 2021/04/23"),
     ("TACL 2020", "https://www.aclweb.org/anthology/events/tacl-2020/", None),
@@ -73,7 +74,7 @@ for name, url, date in tqdm(urls):
         link = res.get('href')
         text = res.get_text()
 
-        item = f"- [{text}](https://www.aclweb.org{link})\n"
+        item = f"- [{text}](https://aclanthology.org{link})\n"
 
         found = "Entity" in text or "entity" in text or "Entities" in text or "entities" in text or " NER " in text or " NEL " in text or " EL " in text 
         found_rec = "Recogn" in text or "recogn" in text or " NER " in text
