@@ -5,6 +5,8 @@ from tqdm import tqdm
 urls = [
     ("TACL 2021", "https://www.aclweb.org/anthology/events/tacl-2021/", None),
     ("Findings 2021", "https://aclanthology.org/events/findings-2021/", None),
+    ("CoNLL 2021", "https://aclanthology.org/events/conll-2021/", "2021/11/10 ~ 2021/11/11"),
+    ("EMNLP 2021", "https://aclanthology.org/events/emnlp-2021/", "2021/11/07 ~ 2021/11/11"),
     ("ACL-IJCNLP 2021", "https://aclanthology.org/events/acl-2021/", "2021/08/01 ~ 2021/08/06"),
     ("NAACL 2021", "https://www.aclweb.org/anthology/events/naacl-2021/", "2021/06/06 ~ 2021/06/11"),
     ("EACL 2021", "https://www.aclweb.org/anthology/events/eacl-2021/", "2021/04/19 ~ 2021/04/23"),
