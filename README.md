@@ -75,7 +75,6 @@
 #### Entity Representations / Embeddings
 
 #### misc
-- [Cross-document Event Identity via Dense Annotation](https://aclanthology.org/2021.conll-1.39/)
 ### [EMNLP 2021](https://aclanthology.org/events/emnlp-2021/) (2021/11/07 ~ 2021/11/11)
 
 
@@ -152,8 +151,6 @@
 - [XLEnt: Mining a Large Cross-lingual Entity Dataset with Lexical-Semantic-Phonetic Word Alignment](https://aclanthology.org/2021.emnlp-main.814/)
 - [Robustness Evaluation of Entity Disambiguation Using Prior Probes: the Case of Entity Overshadowing](https://aclanthology.org/2021.emnlp-main.820/)
 - [The Pipeline Model for Resolution of Anaphoric Reference and Resolution of Entity Reference](https://aclanthology.org/2021.codi-sharedtask.4/)
-- [Adapted End-to-End Coreference Resolution System for Anaphoric Identities in Dialogues](https://aclanthology.org/2021.codi-sharedtask.6/)
-- [Cross-document Event Identity via Dense Annotation](https://aclanthology.org/2021.conll-1.39/)
 - [Resources and Evaluations for Danish Entity Resolution](https://aclanthology.org/2021.crac-1.7/)
 - [Event and Entity Coreference using Trees to Encode Uncertainty in Joint Decisions](https://aclanthology.org/2021.crac-1.11/)
 - [Modeling Entity Knowledge for Fact Verification](https://aclanthology.org/2021.fever-1.6/)
@@ -227,7 +224,6 @@
 - [Benchmarking Scalable Methods for Streaming Cross Document Entity Coreference](https://aclanthology.org/2021.acl-long.364/)
 - [Reasoning over Entity-Action-Location Graph for Procedural Text Understanding](https://aclanthology.org/2021.acl-long.396/)
 - [Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference](https://aclanthology.org/2021.acl-long.488/)
-- [The R-U-A-Robot Dataset: Helping Avoid Chatbot Deception by Detecting User Questions About Human or Non-Human Identity](https://aclanthology.org/2021.acl-long.544/)
 - [Entity Enhancement for Implicit Discourse Relation Classification in the Biomedical Domain](https://aclanthology.org/2021.acl-short.116/)
 - [Entity Concept-enhanced Few-shot Relation Extraction](https://aclanthology.org/2021.acl-short.124/)
 - [“I’ve Seen Things You People Wouldn’t Believe”: Hallucinating Entities in GuessWhat?!](https://aclanthology.org/2021.acl-srw.11/)
@@ -361,7 +357,6 @@
 
 #### misc
 - [Minimize Exposure Bias of Seq2Seq Models in Joint Entity and Relation Extraction](https://aclanthology.org/2020.findings-emnlp.23/)
-- [Pruning Redundant Mappings in Transformer Models via Spectral-Normalized Identity Prior](https://aclanthology.org/2020.findings-emnlp.64/)
 - [Global Bootstrapping Neural Network for Entity Set Expansion](https://aclanthology.org/2020.findings-emnlp.331/)
 ### [COLING 2020](https://www.aclweb.org/anthology/events/coling-2020/) (2020/12/08 ~ 2020/12/13)
 
@@ -400,7 +395,6 @@
 - [Joint Entity and Relation Extraction for Legal Documents with Legal Feature Enhancement](https://aclanthology.org/2020.coling-main.137/)
 - [Referring to what you know and do not know: Making Referring Expression Generation Models Generalize To Unseen Entities](https://aclanthology.org/2020.coling-main.205/)
 - [Dual Attention Network for Cross-lingual Entity Alignment](https://aclanthology.org/2020.coling-main.284/)
-- [Knowledge Graph Enhanced Neural Machine Translation via Multi-task Learning on Sub-entity Granularity](https://aclanthology.org/2020.coling-main.397/)
 - [Semi-supervised URL Segmentation with Recurrent Neural Networks Pre-trained on Knowledge Graph Entities](https://aclanthology.org/2020.coling-main.411/)
 - [Utilizing Subword Entities in Character-Level Sequence-to-Sequence Lemmatization Models](https://aclanthology.org/2020.coling-main.412/)
 - [Controllable Abstractive Sentence Summarization with Guiding Entities](https://aclanthology.org/2020.coling-main.497/)
@@ -498,14 +492,11 @@
 - [TESA: A Task in Entity Semantic Aggregation for Abstractive Summarization](https://aclanthology.org/2020.emnlp-main.646/)
 - [SynSetExpan: An Iterative Framework for Joint Entity Set Expansion and Synonym Discovery](https://aclanthology.org/2020.emnlp-main.666/)
 - [To Schedule or not to Schedule: Extracting Task Specific Temporal Entities and Associated Negation Constraints](https://aclanthology.org/2020.emnlp-main.678/)
-- [Reducing Unintended Identity Bias in Russian Hate Speech Detection](https://aclanthology.org/2020.alw-1.8/)
 - [Evaluation of Transfer Learning for Adverse Drug Event (ADE) and Medication Entity Extraction](https://aclanthology.org/2020.clinicalnlp-1.6/)
 - [Using Type Information to Improve Entity Coreference Resolution](https://aclanthology.org/2020.codi-1.3/)
 - [Minimize Exposure Bias of Seq2Seq Models in Joint Entity and Relation Extraction](https://aclanthology.org/2020.findings-emnlp.23/)
-- [Pruning Redundant Mappings in Transformer Models via Spectral-Normalized Identity Prior](https://aclanthology.org/2020.findings-emnlp.64/)
 - [Global Bootstrapping Neural Network for Entity Set Expansion](https://aclanthology.org/2020.findings-emnlp.331/)
 - [COVID-19: A Semantic-Based Pipeline for Recommending Biomedical Entities](https://aclanthology.org/2020.nlpcovid19-2.20/)
-- [Emoji and Self-Identity in Twitter Bios](https://aclanthology.org/2020.nlpcss-1.22/)
 - [Identifying and Classifying Third-party Entities in Natural Language Privacy Policies](https://aclanthology.org/2020.privatenlp-1.3/)
 - [Structured Prediction for Joint Class Cardinality and Entity Property Inference in Model-Complete Text Comprehension](https://aclanthology.org/2020.spnlp-1.4/)
 - [WNUT-2020 Task 1 Overview: Extracting Entities and Relations from Wet Lab Protocols](https://aclanthology.org/2020.wnut-1.33/)
@@ -560,7 +551,6 @@
 - [Empower Entity Set Expansion via Language Model Probing](https://aclanthology.org/2020.acl-main.725/)
 - [Toward General Scene Graph: Integration of Visual Semantic Knowledge with Entity Synset Alignment](https://aclanthology.org/2020.alvr-1.2/)
 - [Entity-Enriched Neural Models for Clinical Question Answering](https://aclanthology.org/2020.bionlp-1.12/)
-- [Exploring the Effect of Author and Reader Identity in Online Story Writing: the STORIESINTHEWILD Corpus.](https://aclanthology.org/2020.nuse-1.6/)
 ### [LREC 2020](https://www.aclweb.org/anthology/events/lrec-2020/)
 
 
@@ -672,7 +662,6 @@
 - [Effective Use of Transformer Networks for Entity Tracking](https://aclanthology.org/D19-1070/)
 - [Modeling Multi-mapping Relations for Precise Cross-lingual Entity Alignment](https://aclanthology.org/D19-1075/)
 - [Entity Projection via Machine Translation for Cross-Lingual NER](https://aclanthology.org/D19-1100/)
-- [Are You for Real? Detecting Identity Fraud via Dialogue Interactions](https://aclanthology.org/D19-1185/)
 - [Referring Expression Generation Using Entity Profiles](https://aclanthology.org/D19-1312/)
 - [An Entity-Driven Framework for Abstractive Summarization](https://aclanthology.org/D19-1323/)
 - [Aligning Cross-Lingual Entities with Multi-Aspect Information](https://aclanthology.org/D19-1451/)
@@ -751,7 +740,6 @@
 - [Generating Logical Forms from Graph Representations of Text and Entities](https://aclanthology.org/P19-1010/)
 - [Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data](https://aclanthology.org/P19-1130/)
 - [ERNIE: Enhanced Language Representation with Informative Entities](https://aclanthology.org/P19-1139/)
-- [Encouraging Paragraph Embeddings to Remember Sentence Identity Improves Classification](https://aclanthology.org/P19-1638/)
 - [Improving Neural Entity Disambiguation with Graph Embeddings](https://aclanthology.org/P19-2044/)
 
 #### misc
@@ -1014,11 +1002,9 @@
 
 #### misc
 - [Collective Entity Disambiguation with Structured Gradient Tree Boosting](https://aclanthology.org/N18-1071/)
-- [Si O No, Que Penses? Catalonian Independence and Linguistic Identity on Social Media](https://aclanthology.org/N18-2022/)
 - [Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-Based Sentiment Analysis](https://aclanthology.org/N18-2045/)
 - [Structure Regularized Neural Network for Entity Relation Classification for Chinese Literature Text](https://aclanthology.org/N18-2059/)
 - [Benchmarks and models for entity-oriented polarity detection](https://aclanthology.org/N18-3016/)
-- [Alignment, Acceptance, and Rejection of Group Identities in Online Political Discourse](https://aclanthology.org/N18-4001/)
 - [Entity Resolution and Location Disambiguation in the Ancient Hindu Temples Domain using Web Data](https://aclanthology.org/N18-5010/)
 - [Event versus entity co-reference: Effects of context and form of referring expression](https://aclanthology.org/W18-0711/)
 ### [LREC 2018](https://www.aclweb.org/anthology/events/lrec-2018/) (2018/05/07 ~ 2018/05/12)
@@ -1083,8 +1069,6 @@
 - [Domain-Adaptable Hybrid Generation of RDF Entity Descriptions](https://aclanthology.org/I17-1031/)
 - [ES-LDA: Entity Summarization using Knowledge-based Topic Modeling](https://aclanthology.org/I17-1032/)
 - [A Neural Language Model for Dynamically Representing the Meanings of Unknown Words and Entities in a Discourse](https://aclanthology.org/I17-1048/)
-- [Identity Deception Detection](https://aclanthology.org/I17-1089/)
-- [MONPA: Multi-objective Named-entity and Part-of-speech Annotator for Chinese using Recurrent Neural Network](https://aclanthology.org/I17-2014/)
 ### [PACLIC 2017](https://www.aclweb.org/anthology/events/paclic-2017/) (2017/11/16 ~ 2017/11/18)
 
 
@@ -1105,7 +1089,6 @@
 - [Cheap Translation for Cross-Lingual Named Entity Recognition](https://aclanthology.org/D17-1269/)
 - [Leveraging Linguistic Structures for Named Entity Recognition with Bidirectional Recursive Neural Networks](https://aclanthology.org/D17-1282/)
 - [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://aclanthology.org/D17-1283/)
-- [NeuroNER: an easy-to-use program for named-entity recognition based on neural networks](https://aclanthology.org/D17-2017/)
 
 #### EL
 - [Entity Linking for Queries by Searching Wikipedia Sentences](https://aclanthology.org/D17-1007/)
@@ -1182,7 +1165,6 @@
 - [Generalizing to Unseen Entities and Entity Pairs with Row-less Universal Schema](https://aclanthology.org/E17-1058/)
 - [SMARTies: Sentiment Models for Arabic Target entities](https://aclanthology.org/E17-1094/)
 - [Grouping business news stories based on salience of named entities](https://aclanthology.org/E17-1103/)
-- [Aye or naw, whit dae ye hink? Scottish independence and linguistic identity on social media](https://aclanthology.org/E17-1116/)
 - [End-to-End Trainable Attentive Decoder for Hierarchical Entity Classification](https://aclanthology.org/E17-2119/)
 ### [TACL 2016](https://www.aclweb.org/anthology/events/tacl-2016/)
 
@@ -1395,7 +1377,6 @@
 #### Entity Representations / Embeddings
 
 #### misc
-- [Not Voice but Case Identity in VP Ellipsis of English](https://aclanthology.org/Y15-1047/)
 ### [EMNLP 2015](https://www.aclweb.org/anthology/events/emnlp-2015/) (2015/09/17 ~ 2015/09/21)
 
 

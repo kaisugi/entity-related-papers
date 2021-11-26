@@ -79,7 +79,7 @@ for name, url, date in tqdm(urls):
 
         item = f"- [{text}](https://aclanthology.org{link})\n"
 
-        found = "Entity" in text or "entity" in text or "Entities" in text or "entities" in text or " NER " in text or " NEL " in text or " EL " in text 
+        found = "Entity" in text or " entity" in text or "Entities" in text or " entities" in text or " NER " in text or " NEL " in text or " EL " in text 
         found_rec = "Recogn" in text or "recogn" in text or " NER " in text
         found_link = "Link" in text or "link" in text or " NEL " in text or " EL " in text 
         found_type = "Entity Typing" in text or "Entity Type" in text
