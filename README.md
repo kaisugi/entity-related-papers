@@ -1,9 +1,92 @@
 # entity-related-papers
 
+### [ACL 2022](https://aclanthology.org/events/acl-2022/) (2022/05/22 ~ 2022/05/27)
+
+
+#### NER
+- [An Unsupervised Multiple-Task and Multiple-Teacher Model for Cross-lingual Named Entity Recognition](https://aclanthology.org/2022.acl-long.14/)
+- [Few-Shot Class-Incremental Learning for Named Entity Recognition](https://aclanthology.org/2022.acl-long.43/)
+- [De-Bias for Generative Extraction in Unified NER Task](https://aclanthology.org/2022.acl-long.59/)
+- [Nested Named Entity Recognition with Span-level Graphs](https://aclanthology.org/2022.acl-long.63/)
+- [Parallel Instance Query Network for Named Entity Recognition](https://aclanthology.org/2022.acl-long.67/)
+- [Bottom-Up Constituency Parsing and Nested Named Entity Recognition with Pointer Networks](https://aclanthology.org/2022.acl-long.171/)
+- [FiNER: Financial Numeric Entity Recognition for XBRL Tagging](https://aclanthology.org/2022.acl-long.303/)
+- [MINER: Improving Out-of-Vocabulary Named Entity Recognition from an Information Theoretic Perspective](https://aclanthology.org/2022.acl-long.383/)
+- [Few-shot Named Entity Recognition with Self-describing Networks](https://aclanthology.org/2022.acl-long.392/)
+- [Nested Named Entity Recognition as Latent Lexicalized Constituency Parsing](https://aclanthology.org/2022.acl-long.428/)
+- [CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning](https://aclanthology.org/2022.acl-long.439/)
+- [Boundary Smoothing for Named Entity Recognition](https://aclanthology.org/2022.acl-long.490/)
+- [Distantly Supervised Named Entity Recognition via Confidence-Based Multi-Class Positive and Unlabeled Learning](https://aclanthology.org/2022.acl-long.498/)
+- [GNNer: Reducing Overlapping in Span-based NER Using Graph Neural Networks](https://aclanthology.org/2022.acl-srw.9/)
+- [TeluguNER: Leveraging Multi-Domain Named Entity Recognition with Deep Transformers](https://aclanthology.org/2022.acl-srw.20/)
+- [Simple Semantic-based Data Augmentation for Named Entity Recognition in Biomedical Texts](https://aclanthology.org/2022.bionlp-1.12/)
+- [Auxiliary Learning for Named Entity Recognition with Multiple Auxiliary Biomedical Training Data](https://aclanthology.org/2022.bionlp-1.13/)
+- [Biomedical NER using Novel Schema and Distant Supervision](https://aclanthology.org/2022.bionlp-1.15/)
+- [Named Entity Recognition for Cancer Immunology Research Using Distant Supervision](https://aclanthology.org/2022.bionlp-1.17/)
+- [Extract-Select: A Span Selection Framework for Nested Named Entity Recognition with Generative Adversarial Training](https://aclanthology.org/2022.findings-acl.9/)
+- [Thai Nested Named Entity Recognition Corpus](https://aclanthology.org/2022.findings-acl.116/)
+- [Decomposed Meta-Learning for Few-Shot Named Entity Recognition](https://aclanthology.org/2022.findings-acl.124/)
+- [Leveraging Expert Guided Adversarial Augmentation For Improving Generalization in Named Entity Recognition](https://aclanthology.org/2022.findings-acl.154/)
+- [Label Semantics for Few Shot Named Entity Recognition](https://aclanthology.org/2022.findings-acl.155/)
+- [Learn and Review: Enhancing Continual Named Entity Recognition via Reviewing Synthetic Samples](https://aclanthology.org/2022.findings-acl.179/)
+- [Cross-domain Named Entity Recognition via Graph Matching](https://aclanthology.org/2022.findings-acl.210/)
+- [Extracting Person Names from User Generated Text: Named-Entity Recognition for Combating Human Trafficking](https://aclanthology.org/2022.findings-acl.225/)
+- [Fusing Heterogeneous Factors with Triaffine Mechanism for Nested Named Entity Recognition](https://aclanthology.org/2022.findings-acl.250/)
+- [Towards Few-shot Entity Recognition in Document Images: A Label-aware Sequence-to-Sequence Framework](https://aclanthology.org/2022.findings-acl.329/)
+- [A Comparative Study of Pre-trained Encoders for Low-Resource Named Entity Recognition](https://aclanthology.org/2022.repl4nlp-1.6/)
+
+#### EL
+- [WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types](https://aclanthology.org/2022.acl-long.328/)
+- [Towards Consistent Document-level Entity Linking: Joint Models for Entity Linking and Coreference Resolution](https://aclanthology.org/2022.acl-short.88/)
+- [HOSMEL: A Hot-Swappable Modularized Entity Linking Toolkit for Chinese](https://aclanthology.org/2022.acl-demo.21/)
+- [A Transformational Biencoder with In-Domain Negative Sampling for Zero-Shot Entity Linking](https://aclanthology.org/2022.findings-acl.114/)
+- [Detection, Disambiguation, Re-ranking: Autoregressive Entity Linking as a Multi-Task Problem](https://aclanthology.org/2022.findings-acl.156/)
+- [Cross-Lingual UMLS Named Entity Linking using UMLS Dictionary Fine-Tuning](https://aclanthology.org/2022.findings-acl.266/)
+- [Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking](https://aclanthology.org/2022.findings-acl.292/)
+- [A Study on Entity Linking Across Domains”:" Which Data is Best for Fine-Tuning?](https://aclanthology.org/2022.repl4nlp-1.19/)
+
+#### Entity Typing
+- [Divide and Denoise: Learning from Noisy Labels in Fine-Grained Entity Typing with Cluster-Wise Loss Correction](https://aclanthology.org/2022.acl-long.141/)
+- [Learning from Sibling Mentions with Scalable Graph Inference in Fine-Grained Entity Typing](https://aclanthology.org/2022.acl-long.147/)
+- [Cross-Lingual Contrastive Learning for Fine-Grained Entity Typing for Low-Resource Languages](https://aclanthology.org/2022.acl-long.159/)
+- [How Can Cross-lingual Knowledge Contribute Better to Fine-Grained Entity Typing?](https://aclanthology.org/2022.findings-acl.243/)
+
+#### Entity Representations / Embeddings
+- [mLUKE: The Power of Entity Representations in Multilingual Pretrained Language Models](https://aclanthology.org/2022.acl-long.505/)
+
+#### misc
+- [Modeling Temporal-Modal Entity Graph for Procedural Multimodal Machine Comprehension](https://aclanthology.org/2022.acl-long.84/)
+- [DEEP: DEnoising Entity Pre-training for Neural Machine Translation](https://aclanthology.org/2022.acl-long.123/)
+- [MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER](https://aclanthology.org/2022.acl-long.160/)
+- [ExtEnD: Extractive Entity Disambiguation](https://aclanthology.org/2022.acl-long.177/)
+- [EntSUM: A Data Set for Entity-Centric Extractive Summarization](https://aclanthology.org/2022.acl-long.237/)
+- [Packed Levitated Marker for Entity and Relation Extraction](https://aclanthology.org/2022.acl-long.337/)
+- [An Effective and Efficient Entity Alignment Decoding Algorithm via Third-Order Tensor Isomorphism](https://aclanthology.org/2022.acl-long.405/)
+- [Rethinking Negative Sampling for Handling Missing Entity Annotations](https://aclanthology.org/2022.acl-long.497/)
+- [Entity-based Neural Local Coherence Modeling](https://aclanthology.org/2022.acl-long.537/)
+- [Automatic Detection of Entity-Manipulated Text using Factual Knowledge](https://aclanthology.org/2022.acl-short.10/)
+- [A Simple but Effective Pluggable Entity Lookup Table for Pre-trained Language Models](https://aclanthology.org/2022.acl-short.57/)
+- [Entities, Dates, and Languages: Zero-Shot on Historical Texts with T0](https://aclanthology.org/2022.bigscience-1.7/)
+- [Intra-Template Entity Compatibility based Slot-Filling for Clinical Trial Information Extraction](https://aclanthology.org/2022.bionlp-1.18/)
+- [BanglaBioMed: A Biomedical Named-Entity Annotated Corpus for Bangla (Bengali)](https://aclanthology.org/2022.bionlp-1.31/)
+- [DISTANT-CTO: A Zero Cost, Distantly Supervised Approach to Improve Low-Resource Entity Extraction Using Clinical Trials Literature](https://aclanthology.org/2022.bionlp-1.34/)
+- [DD-TIG at Constraint@ACL2022: Multimodal Understanding and Reasoning for Role Labeling of Entities in Hateful Memes](https://aclanthology.org/2022.constraint-1.2/)
+- [Combining Language Models and Linguistic Information to Label Entities in Memes](https://aclanthology.org/2022.constraint-1.5/)
+- [Detecting the Role of an Entity in Harmful Memes: Techniques and their Limitations](https://aclanthology.org/2022.constraint-1.6/)
+- [Fine-tuning and Sampling Strategies for Multimodal Role Labeling of Entities under Class Imbalance](https://aclanthology.org/2022.constraint-1.7/)
+- [Open Relation Modeling: Learning to Define Relations between Entities](https://aclanthology.org/2022.findings-acl.26/)
+- [TABi: Type-Aware Bi-Encoders for Open-Domain Entity Retrieval](https://aclanthology.org/2022.findings-acl.169/)
+- [An Accurate Unsupervised Method for Joint Entity Alignment and Dangling Entity Detection](https://aclanthology.org/2022.findings-acl.183/)
+- [Deep Reinforcement Learning for Entity Alignment](https://aclanthology.org/2022.findings-acl.217/)
+- [Attention as Grounding: Exploring Textual and Cross-Modal Attention on Entities and Relations in Language-and-Vision Transformer](https://aclanthology.org/2022.findings-acl.320/)
+- [Joint Entity and Relation Extraction Based on Table Labeling Using Convolutional Neural Networks](https://aclanthology.org/2022.spnlp-1.2/)
 ### [TACL 2021](https://www.aclweb.org/anthology/events/tacl-2021/)
 
 
 #### NER
+- [Context-aware Adversarial Training for Name Regularity Bias in Named Entity Recognition](https://aclanthology.org/2021.tacl-1.36/)
+- [MasakhaNER: Named Entity Recognition for African Languages](https://aclanthology.org/2021.tacl-1.66/)
+- [Partially Supervised Named Entity Recognition via the Expected Entity Ratio Loss](https://aclanthology.org/2021.tacl-1.78/)
 
 #### EL
 
@@ -12,57 +95,8 @@
 #### Entity Representations / Embeddings
 
 #### misc
-### [Findings 2021](https://aclanthology.org/events/findings-2021/)
-
-
-#### NER
-- [Target-oriented Fine-tuning for Zero-Resource Named Entity Recognition](https://aclanthology.org/2021.findings-acl.140/)
-- [Toward Fully Exploiting Heterogeneous Corpus:A Decoupled Named Entity Recognition Model with Two-stage Training](https://aclanthology.org/2021.findings-acl.143/)
-- [Template-Based Named Entity Recognition Using BART](https://aclanthology.org/2021.findings-acl.161/)
-- [Neural Entity Recognition with Gazetteer based Fusion](https://aclanthology.org/2021.findings-acl.291/)
-- [Named Entity Recognition through Deep Representation Learning and Weak Supervision](https://aclanthology.org/2021.findings-acl.335/)
-- [The Utility and Interplay of Gazetteers and Entity Segmentation for Named Entity Recognition in English](https://aclanthology.org/2021.findings-acl.349/)
-- [Constrained Labeled Data Generation for Low-Resource Named Entity Recognition](https://aclanthology.org/2021.findings-acl.396/)
-- [Named Entity Recognition via Noise Aware Training Mechanism with Data Filter](https://aclanthology.org/2021.findings-acl.423/)
-- [A Multi-Task Approach for Improving Biomedical Named Entity Recognition by Incorporating Multi-Granularity information](https://aclanthology.org/2021.findings-acl.424/)
-- [Language Clustering for Multilingual Named Entity Recognition](https://aclanthology.org/2021.findings-emnlp.4/)
-- [HiTRANS: A Hierarchical Transformer Network for Nested Named Entity Recognition](https://aclanthology.org/2021.findings-emnlp.12/)
-- [CNNBiF: CNN-based Bigram Features for Named Entity Recognition](https://aclanthology.org/2021.findings-emnlp.87/)
-- [Improving Distantly-Supervised Named Entity Recognition with Self-Collaborative Denoising Learning](https://aclanthology.org/2021.findings-emnlp.131/)
-- [Learning from Language Description: Low-shot Named Entity Recognition via Decomposed Framework](https://aclanthology.org/2021.findings-emnlp.139/)
-- [Named Entity Recognition for Entity Linking: What Works and What’s Next](https://aclanthology.org/2021.findings-emnlp.220/)
-
-#### EL
-- [Cross-Lingual Transfer in Zero-Shot Cross-Language Entity Linking](https://aclanthology.org/2021.findings-acl.52/)
-- [BERT might be Overkill: A Tiny but Effective Biomedical Entity Linker based on Residual Convolutional Neural Networks](https://aclanthology.org/2021.findings-emnlp.140/)
-
-#### Entity Typing
-- [Relation Classification with Entity Type Restriction](https://aclanthology.org/2021.findings-acl.34/)
-- [Context-aware Entity Typing in Knowledge Graphs](https://aclanthology.org/2021.findings-emnlp.193/)
-
-#### Entity Representations / Embeddings
-- [OntoEA: Ontology-guided Entity Alignment via Joint Knowledge Graph Embedding](https://aclanthology.org/2021.findings-acl.96/)
-- [Biomedical Interpretable Entity Representations](https://aclanthology.org/2021.findings-acl.311/)
-- [Improving Knowledge Graph Embedding Using Affine Transformations of Entities Corresponding to Each Relation](https://aclanthology.org/2021.findings-emnlp.46/)
-- [A Comprehensive Comparison of Word Embeddings in Event & Entity Coreference Resolution.](https://aclanthology.org/2021.findings-emnlp.235/)
-
-#### misc
-- [Entity-Aware Abstractive Multi-Document Summarization](https://aclanthology.org/2021.findings-acl.30/)
-- [Cross-Lingual Cross-Domain Nested Named Entity Evaluation on English Web Texts](https://aclanthology.org/2021.findings-acl.158/)
-- [Injecting Knowledge Base Information into End-to-End Joint Entity and Relation Extraction and Coreference Resolution](https://aclanthology.org/2021.findings-acl.171/)
-- [Zero-shot Medical Entity Retrieval without Annotation: Learning From Rich Knowledge Graph Semantics](https://aclanthology.org/2021.findings-acl.212/)
-- [GrantRel: Grant Information Extraction via Joint Entity and Relation Extraction](https://aclanthology.org/2021.findings-acl.236/)
-- [Who Blames or Endorses Whom? Entity-to-Entity Directed Sentiment Extraction in News Text](https://aclanthology.org/2021.findings-acl.358/)
-- [A Web Scale Entity Extraction System](https://aclanthology.org/2021.findings-emnlp.7/)
-- [Unseen Entity Handling in Complex Question Answering over Knowledge Base via Language Generation](https://aclanthology.org/2021.findings-emnlp.50/)
-- [To Protect and To Serve? Analyzing Entity-Centric Framing of Police Violence](https://aclanthology.org/2021.findings-emnlp.82/)
-- [Entity-level Cross-modal Learning Improves Multi-modal Machine Translation](https://aclanthology.org/2021.findings-emnlp.92/)
-- [Entity-Based Semantic Adequacy for Data-to-Text Generation](https://aclanthology.org/2021.findings-emnlp.132/)
-- [Enhancing Visual Dialog Questioner with Entity-based Strategy Learning and Augmented Guesser](https://aclanthology.org/2021.findings-emnlp.158/)
-- [GenerativeRE: Incorporating a Novel Copy Mechanism and Pretrained Model for Joint Entity and Relation Extraction](https://aclanthology.org/2021.findings-emnlp.182/)
-- [Adapting Entities across Languages and Cultures](https://aclanthology.org/2021.findings-emnlp.315/)
-- [Cross-Domain Data Integration for Named Entity Disambiguation in Biomedical Text](https://aclanthology.org/2021.findings-emnlp.388/)
-- [Fine-grained Typing of Emerging Entities in Microblogs](https://aclanthology.org/2021.findings-emnlp.399/)
+- [Neural Modeling for Named Entities and Morphology (NEMO2)](https://aclanthology.org/2021.tacl-1.54/)
+- [Planning with Learned Entity Prompts for Abstractive Summarization](https://aclanthology.org/2021.tacl-1.88/)
 ### [CoNLL 2021](https://aclanthology.org/events/conll-2021/) (2021/11/10 ~ 2021/11/11)
 
 
@@ -193,6 +227,15 @@
 - [Explicitly Capturing Relations between Entity Mentions via Graph Neural Networks for Domain-specific Named Entity Recognition](https://aclanthology.org/2021.acl-short.93/)
 - [Improving Model Generalization: A Chinese Named Entity Recognition Case Study](https://aclanthology.org/2021.acl-short.125/)
 - [Investigation on Data Adaptation Techniques for Neural Named Entity Recognition](https://aclanthology.org/2021.acl-srw.1/)
+- [Target-oriented Fine-tuning for Zero-Resource Named Entity Recognition](https://aclanthology.org/2021.findings-acl.140/)
+- [Toward Fully Exploiting Heterogeneous Corpus:A Decoupled Named Entity Recognition Model with Two-stage Training](https://aclanthology.org/2021.findings-acl.143/)
+- [Template-Based Named Entity Recognition Using BART](https://aclanthology.org/2021.findings-acl.161/)
+- [Neural Entity Recognition with Gazetteer based Fusion](https://aclanthology.org/2021.findings-acl.291/)
+- [Named Entity Recognition through Deep Representation Learning and Weak Supervision](https://aclanthology.org/2021.findings-acl.335/)
+- [The Utility and Interplay of Gazetteers and Entity Segmentation for Named Entity Recognition in English](https://aclanthology.org/2021.findings-acl.349/)
+- [Constrained Labeled Data Generation for Low-Resource Named Entity Recognition](https://aclanthology.org/2021.findings-acl.396/)
+- [Named Entity Recognition via Noise Aware Training Mechanism with Data Filter](https://aclanthology.org/2021.findings-acl.423/)
+- [A Multi-Task Approach for Improving Biomedical Named Entity Recognition by Incorporating Multi-Granularity information](https://aclanthology.org/2021.findings-acl.424/)
 - [Meta-Learning for Few-Shot Named Entity Recognition](https://aclanthology.org/2021.metanlp-1.6/)
 - [UIT-E10dot3 at SemEval-2021 Task 5: Toxic Spans Detection with Named Entity Recognition and Question-Answering Approaches](https://aclanthology.org/2021.semeval-1.125/)
 - [BennettNLP at SemEval-2021 Task 5: Toxic Spans Detection using Stacked Embedding Powered Toxic Entity Recognizer](https://aclanthology.org/2021.semeval-1.128/)
@@ -202,13 +245,17 @@
 - [LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking](https://aclanthology.org/2021.acl-long.64/)
 - [MOLEMAN: Mention-Only Linking of Entities with a Mention Annotation Network](https://aclanthology.org/2021.acl-short.37/)
 - [Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking](https://aclanthology.org/2021.acl-short.72/)
+- [Cross-Lingual Transfer in Zero-Shot Cross-Language Entity Linking](https://aclanthology.org/2021.findings-acl.52/)
 
 #### Entity Typing
 - [Ultra-Fine Entity Typing with Weak Supervision from a Masked Language Model](https://aclanthology.org/2021.acl-long.141/)
 - [Modeling Fine-Grained Entity Types with Box Embeddings](https://aclanthology.org/2021.acl-long.160/)
+- [Relation Classification with Entity Type Restriction](https://aclanthology.org/2021.findings-acl.34/)
 
 #### Entity Representations / Embeddings
 - [Personalized Entity Resolution with Dynamic Heterogeneous KnowledgeGraph Representations](https://aclanthology.org/2021.ecnlp-1.6/)
+- [OntoEA: Ontology-guided Entity Alignment via Joint Knowledge Graph Embedding](https://aclanthology.org/2021.findings-acl.96/)
+- [Biomedical Interpretable Entity Representations](https://aclanthology.org/2021.findings-acl.311/)
 - [Simultaneously Self-Attending to Text and Entities for Knowledge-Informed Text Representations](https://aclanthology.org/2021.repl4nlp-1.25/)
 
 #### misc
@@ -228,6 +275,12 @@
 - [Entity Concept-enhanced Few-shot Relation Extraction](https://aclanthology.org/2021.acl-short.124/)
 - [“I’ve Seen Things You People Wouldn’t Believe”: Hallucinating Entities in GuessWhat?!](https://aclanthology.org/2021.acl-srw.11/)
 - [Joint Detection and Coreference Resolution of Entities and Events with Document-level Context Aggregation](https://aclanthology.org/2021.acl-srw.18/)
+- [Entity-Aware Abstractive Multi-Document Summarization](https://aclanthology.org/2021.findings-acl.30/)
+- [Cross-Lingual Cross-Domain Nested Named Entity Evaluation on English Web Texts](https://aclanthology.org/2021.findings-acl.158/)
+- [Injecting Knowledge Base Information into End-to-End Joint Entity and Relation Extraction and Coreference Resolution](https://aclanthology.org/2021.findings-acl.171/)
+- [Zero-shot Medical Entity Retrieval without Annotation: Learning From Rich Knowledge Graph Semantics](https://aclanthology.org/2021.findings-acl.212/)
+- [GrantRel: Grant Information Extraction via Joint Entity and Relation Extraction](https://aclanthology.org/2021.findings-acl.236/)
+- [Who Blames or Endorses Whom? Entity-to-Entity Directed Sentiment Extraction in News Text](https://aclanthology.org/2021.findings-acl.358/)
 - [Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions](https://aclanthology.org/2021.repl4nlp-1.10/)
 - [Entity and Evidence Guided Document-Level Relation Extraction](https://aclanthology.org/2021.repl4nlp-1.30/)
 - [Duluth at SemEval-2021 Task 11: Applying DeBERTa to Contributing Sentence Selection and Dependency Parsing for Entity Extraction](https://aclanthology.org/2021.semeval-1.60/)
@@ -333,31 +386,6 @@
 #### Entity Representations / Embeddings
 
 #### misc
-### [Findings 2020](https://www.aclweb.org/anthology/events/findings-2020/)
-
-
-#### NER
-- [Toward Recognizing More Entity Types in NER: An Efficient Implementation using Only Entity Lexicons](https://aclanthology.org/2020.findings-emnlp.60/)
-- [Inexpensive Domain Adaptation of Pretrained Language Models: Case Studies on Biomedical NER and Covid-19 QA](https://aclanthology.org/2020.findings-emnlp.134/)
-- [Constrained Decoding for Computationally Efficient Named Entity Recognition Taggers](https://aclanthology.org/2020.findings-emnlp.166/)
-- [A Dual-Attention Network for Joint Named Entity Recognition and Sentence Classification of Adverse Drug Events](https://aclanthology.org/2020.findings-emnlp.306/)
-- [Improving Named Entity Recognition with Attentive Ensemble of Syntactic Information](https://aclanthology.org/2020.findings-emnlp.378/)
-- [Hierarchical Region Learning for Nested Named Entity Recognition](https://aclanthology.org/2020.findings-emnlp.430/)
-
-#### EL
-- [Zero-shot Entity Linking with Efficient Long Range Sequence Modeling](https://aclanthology.org/2020.findings-emnlp.228/)
-- [Joint Intent Detection and Entity Linking on Spatial Domain Queries](https://aclanthology.org/2020.findings-emnlp.444/)
-
-#### Entity Typing
-- [AutoETER: Automated Entity Type Representation for Knowledge Graph Embedding](https://aclanthology.org/2020.findings-emnlp.105/)
-
-#### Entity Representations / Embeddings
-- [Interpretable Entity Representations through Large-Scale Typing](https://aclanthology.org/2020.findings-emnlp.54/)
-- [E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT](https://aclanthology.org/2020.findings-emnlp.71/)
-
-#### misc
-- [Minimize Exposure Bias of Seq2Seq Models in Joint Entity and Relation Extraction](https://aclanthology.org/2020.findings-emnlp.23/)
-- [Global Bootstrapping Neural Network for Entity Set Expansion](https://aclanthology.org/2020.findings-emnlp.331/)
 ### [COLING 2020](https://www.aclweb.org/anthology/events/coling-2020/) (2020/12/08 ~ 2020/12/13)
 
 

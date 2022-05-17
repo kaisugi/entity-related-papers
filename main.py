@@ -3,15 +3,14 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 
 urls = [
+    ("ACL 2022", "https://aclanthology.org/events/acl-2022/", "2022/05/22 ~ 2022/05/27"),
     ("TACL 2021", "https://www.aclweb.org/anthology/events/tacl-2021/", None),
-    ("Findings 2021", "https://aclanthology.org/events/findings-2021/", None),
     ("CoNLL 2021", "https://aclanthology.org/events/conll-2021/", "2021/11/10 ~ 2021/11/11"),
     ("EMNLP 2021", "https://aclanthology.org/events/emnlp-2021/", "2021/11/07 ~ 2021/11/11"),
     ("ACL-IJCNLP 2021", "https://aclanthology.org/events/acl-2021/", "2021/08/01 ~ 2021/08/06"),
     ("NAACL 2021", "https://www.aclweb.org/anthology/events/naacl-2021/", "2021/06/06 ~ 2021/06/11"),
     ("EACL 2021", "https://www.aclweb.org/anthology/events/eacl-2021/", "2021/04/19 ~ 2021/04/23"),
     ("TACL 2020", "https://www.aclweb.org/anthology/events/tacl-2020/", None),
-    ("Findings 2020", "https://www.aclweb.org/anthology/events/findings-2020/", None),
     ("COLING 2020", "https://www.aclweb.org/anthology/events/coling-2020/", "2020/12/08 ~ 2020/12/13"),
     ("CoNLL 2020", "https://www.aclweb.org/anthology/events/conll-2020/", "2020/11/19 ~ 2020/11/20"),
     ("EMNLP 2020", "https://www.aclweb.org/anthology/events/emnlp-2020/", "2020/11/16 ~ 2020/11/20"),
