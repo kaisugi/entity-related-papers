@@ -1,5 +1,19 @@
 # entity-related-papers
 
+### [TACL 2022](https://aclanthology.org/events/tacl-2022/)
+
+
+#### NER
+
+#### EL
+- [Multilingual Autoregressive Entity Linking](https://aclanthology.org/2022.tacl-1.16/)
+
+#### Entity Typing
+- [Ultra-fine Entity Typing with Indirect Supervision from Natural Language Inference](https://aclanthology.org/2022.tacl-1.35/)
+
+#### Entity Representations / Embeddings
+
+#### misc
 ### [NAACL 2022](https://aclanthology.org/events/naacl-2022/) (2022/07/10 ~ 2022/07/15)
 
 
