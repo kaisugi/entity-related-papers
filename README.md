@@ -105,6 +105,51 @@
 - [AIFB-WebScience at SemEval-2022 Task 12: Relation Extraction First - Using Relation Extraction to Identify Entities](https://aclanthology.org/2022.semeval-1.232/)
 - [ParaNames: A Massively Multilingual Entity Name Corpus](https://aclanthology.org/2022.sigtyp-1.15/)
 - [Towards a Multi-Entity Aspect-Based Sentiment Analysis for Characterizing Directed Social Regard in Online Messaging](https://aclanthology.org/2022.woah-1.19/)
+### [LREC 2022](https://aclanthology.org/events/lrec-2022/) (2022/06/20 ~ 2022/06/25)
+
+
+#### NER
+- [KazNERD: Kazakh Named Entity Recognition Dataset](https://aclanthology.org/2022.lrec-1.44/)
+- [KIND: an Italian Multi-Domain Dataset for Named Entity Recognition](https://aclanthology.org/2022.lrec-1.52/)
+- [Development of a Benchmark Corpus to Support Entity Recognition in Job Descriptions](https://aclanthology.org/2022.lrec-1.128/)
+- [Probing Pre-trained Auto-regressive Language Models for Named Entity Typing and Recognition](https://aclanthology.org/2022.lrec-1.151/)
+- [The Bulgarian Event Corpus: Overview and Initial NER Experiments](https://aclanthology.org/2022.lrec-1.374/)
+- [A Named Entity Recognition Corpus for Vietnamese Biomedical Texts to Support Tuberculosis Treatment](https://aclanthology.org/2022.lrec-1.385/)
+- [Wojood: Nested Arabic Named Entity Corpus and Recognition using BERT](https://aclanthology.org/2022.lrec-1.387/)
+- [GGPONC 2.0 - The German Clinical Guideline Corpus for Oncology: Curation Workflow, Annotation Policy, Baseline NER Taggers](https://aclanthology.org/2022.lrec-1.389/)
+- [Comparing Annotated Datasets for Named Entity Recognition in English Literature](https://aclanthology.org/2022.lrec-1.404/)
+- [HiNER: A large Hindi Named Entity Recognition Dataset](https://aclanthology.org/2022.lrec-1.475/)
+- [A Twitter Corpus for Named Entity Recognition in Turkish](https://aclanthology.org/2022.lrec-1.484/)
+- [Enhancing Deep Learning with Embedded Features for Arabic Named Entity Recognition](https://aclanthology.org/2022.lrec-1.524/)
+- [Named Entity Recognition in Estonian 19th Century Parish Court Records](https://aclanthology.org/2022.lrec-1.568/)
+- [Named Entity Recognition to Detect Criminal Texts on the Web](https://aclanthology.org/2022.lrec-1.669/)
+- [AsNER - Annotated Dataset and Baseline for Assamese Named Entity recognition](https://aclanthology.org/2022.lrec-1.706/)
+- [Annotating the Tweebank Corpus on Named Entity Recognition and Building NLP Models for Social Media Analysis](https://aclanthology.org/2022.lrec-1.780/)
+- [MNLP at FinCausal2022: Nested NER with a Generative Model](https://aclanthology.org/2022.fnp-1.24/)
+- [Multilingual Named Entity Recognition for Medieval Charters Using Stacked Embeddings and Bert-based Models.](https://aclanthology.org/2022.lt4hala-1.17/)
+- [L3Cube-MahaNER: A Marathi Named Entity Recognition Dataset and BERT models](https://aclanthology.org/2022.wildre-1.6/)
+
+#### EL
+- [OpenEL: An Annotated Corpus for Entity Linking and Discourse in Open Domain Dialogue](https://aclanthology.org/2022.lrec-1.241/)
+- [Medical Crossing: a Cross-lingual Evaluation of Clinical Entity Linking](https://aclanthology.org/2022.lrec-1.447/)
+- [Entity Linking over Nested Named Entities for Russian](https://aclanthology.org/2022.lrec-1.474/)
+- [Building an Icelandic Entity Linking Corpus](https://aclanthology.org/2022.dclrl-1.4/)
+- [Entity Linking in the ParlaMint Corpus](https://aclanthology.org/2022.parlaclarin-1.8/)
+
+#### Entity Typing
+
+#### Entity Representations / Embeddings
+
+#### misc
+- [A Unified Approach to Entity-Centric Context Tracking in Social Conversations](https://aclanthology.org/2022.lrec-1.136/)
+- [Enhanced Entity Annotations for Multilingual Corpora](https://aclanthology.org/2022.lrec-1.398/)
+- [Spanish Datasets for Sensitive Entity Detection in the Legal Domain](https://aclanthology.org/2022.lrec-1.400/)
+- [Towards a Broad Coverage Named Entity Resource: A Data-Efficient Approach for Many Diverse Languages](https://aclanthology.org/2022.lrec-1.417/)
+- [Data Augmentation with Paraphrase Generation and Entity Extraction for Multimodal Dialogue System](https://aclanthology.org/2022.lrec-1.437/)
+- [Recovering Patient Journeys: A Corpus of Biomedical Entities and Relations on Twitter (BEAR)](https://aclanthology.org/2022.lrec-1.472/)
+- [Using Sentence-level Classification Helps Entity Extraction from Material Science Literature](https://aclanthology.org/2022.lrec-1.483/)
+- [SPORTSINTERVIEW: A Large-Scale Sports Interview Benchmark for Entity-centric Dialogues](https://aclanthology.org/2022.lrec-1.626/)
+- [Efficient Entity Candidate Generation for Low-Resource Languages](https://aclanthology.org/2022.lrec-1.690/)
 ### [ACL 2022](https://aclanthology.org/events/acl-2022/) (2022/05/22 ~ 2022/05/27)
 
 
