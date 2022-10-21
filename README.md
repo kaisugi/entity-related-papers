@@ -14,6 +14,62 @@
 #### Entity Representations / Embeddings
 
 #### misc
+### [COLING 2022](https://aclanthology.org/events/coling-2022/) (2022/10/12 ~ 2022/10/17)
+
+
+#### NER
+- [Few-shot Named Entity Recognition with Entity-level Prototypical Network Enhanced by Dispersedly Distributed Prototypes](https://aclanthology.org/2022.coling-1.159/)
+- [Prompt-based Text Entailment for Low-Resource Named Entity Recognition](https://aclanthology.org/2022.coling-1.164/)
+- [Two Languages Are Better than One: Bilingual Enhancement for Chinese Named Entity Recognition](https://aclanthology.org/2022.coling-1.176/)
+- [Flat Multi-modal Interaction Transformer for Named Entity Recognition](https://aclanthology.org/2022.coling-1.179/)
+- [Simple Yet Powerful: An Overlooked Architecture for Nested Named Entity Recognition](https://aclanthology.org/2022.coling-1.184/)
+- [LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting](https://aclanthology.org/2022.coling-1.209/)
+- [Domain-Specific NER via Retrieving Correlated Samples](https://aclanthology.org/2022.coling-1.211/)
+- [Nested Named Entity Recognition as Corpus Aware Holistic Structure Parsing](https://aclanthology.org/2022.coling-1.218/)
+- [COPNER: Contrastive Learning with Prompt Guiding for Few-shot Named Entity Recognition](https://aclanthology.org/2022.coling-1.222/)
+- [SEE-Few: Seed, Expand and Entail for Few-shot Named Entity Recognition](https://aclanthology.org/2022.coling-1.224/)
+- [A Data-driven Approach to Named Entity Recognition for Early Modern French](https://aclanthology.org/2022.coling-1.327/)
+- [Tafsir Dataset: A Novel Multi-Task Benchmark for Named Entity Recognition and Topic Modeling in Classical Arabic Literature](https://aclanthology.org/2022.coling-1.330/)
+- [MultiCoNER: A Large-scale Multilingual Dataset for Complex Named Entity Recognition](https://aclanthology.org/2022.coling-1.334/)
+- [Applying Natural Annotation and Curriculum Learning to Named Entity Recognition for Under-Resourced Languages](https://aclanthology.org/2022.coling-1.394/)
+- [FactMix: Using a Few Labeled In-domain Examples to Generalize to Cross-domain Named Entity Recognition](https://aclanthology.org/2022.coling-1.476/)
+- [Syntax-driven Data Augmentation for Named Entity Recognition](https://aclanthology.org/2022.pandl-1.7/)
+- [Named Entity Recognition Based Automatic Generation of Research Highlights](https://aclanthology.org/2022.sdp-1.18/)
+- [CLaCLab at SocialDisNER: Using Medical Gazetteers for Named-Entity Recognition of Disease Mentions in Spanish Tweets](https://aclanthology.org/2022.smm4h-1.16/)
+- [FRE at SocialDisNER: Joint Learning of Language Models for Named Entity Recognition](https://aclanthology.org/2022.smm4h-1.20/)
+- [Romanian micro-blogging named entity recognition including health-related entities](https://aclanthology.org/2022.smm4h-1.49/)
+- [An Effective, Performant Named Entity Recognition System for Noisy Business Telephone Conversation Transcripts](https://aclanthology.org/2022.wnut-1.10/)
+- [“Kanglish alli names!” Named Entity Recognition for Kannada-English Code-Mixed Social Media Data](https://aclanthology.org/2022.wnut-1.17/)
+
+#### EL
+- [Find the Funding: Entity Linking with Incomplete Funding Knowledge Bases](https://aclanthology.org/2022.coling-1.168/)
+- [Improving Zero-Shot Entity Linking Candidate Generation with Ultra-Fine Entity Type Information](https://aclanthology.org/2022.coling-1.214/)
+- [Multilevel Hypernode Graphs for Effective and Efficient Entity Linking](https://aclanthology.org/2022.textgraphs-1.1/)
+- [Robust Candidate Generation for Entity Linking on Short Social Media Texts](https://aclanthology.org/2022.wnut-1.8/)
+
+#### Entity Typing
+- [Type-enriched Hierarchical Contrastive Strategy for Fine-Grained Entity Typing](https://aclanthology.org/2022.coling-1.212/)
+
+#### Entity Representations / Embeddings
+- [Document-Level Relation Extraction via Pair-Aware and Entity-Enhanced Representation Learning](https://aclanthology.org/2022.coling-1.213/)
+- [Multi-modal Contrastive Representation Learning for Entity Alignment](https://aclanthology.org/2022.coling-1.227/)
+- [Enhancing Contextual Word Representations Using Embedding of Neighboring Entities in Knowledge Graphs](https://aclanthology.org/2022.coling-1.281/)
+- [Entity-based Claim Representation Improves Fact-Checking of Medical Content in Tweets](https://aclanthology.org/2022.argmining-1.18/)
+
+#### misc
+- [Autoregressive Entity Generation for End-to-End Task-Oriented Dialog](https://aclanthology.org/2022.coling-1.25/)
+- [New or Old? Exploring How Pre-Trained Language Models Represent Discourse Entities](https://aclanthology.org/2022.coling-1.73/)
+- [A Simple Temporal Information Matching Mechanism for Entity Alignment between Temporal Knowledge Graphs](https://aclanthology.org/2022.coling-1.181/)
+- [DoSEA: A Domain-specific Entity-aware Framework for Cross-Domain Named Entity Recogition](https://aclanthology.org/2022.coling-1.188/)
+- [SCL-RAI: Span-based Contrastive Learning with Retrieval Augmented Inference for Unlabeled Entity Problem in NER](https://aclanthology.org/2022.coling-1.202/)
+- [Method Entity Extraction from Biomedical Texts](https://aclanthology.org/2022.coling-1.207/)
+- [KoCHET: A Korean Cultural Heritage Corpus for Entity-related Tasks](https://aclanthology.org/2022.coling-1.308/)
+- [Resource of Wikipedias in 31 Languages Categorized into Fine-Grained Named Entities](https://aclanthology.org/2022.coling-1.331/)
+- [Source-summary Entity Aggregation in Abstractive Summarization](https://aclanthology.org/2022.coling-1.526/)
+- [PINEAPPLE: Personifying INanimate Entities by Acquiring Parallel Personification Data for Learning Enhanced Generation](https://aclanthology.org/2022.coling-1.547/)
+- [Entity-Level Sentiment Analysis (ELSA): An Exploratory Task Survey](https://aclanthology.org/2022.coling-1.589/)
+- [Named Entity Inclusion in Abstractive Text Summarization](https://aclanthology.org/2022.sdp-1.17/)
+- [Cross-Dialect Social Media Dependency Parsing for Social Scientific Entity Attribute Analysis](https://aclanthology.org/2022.wnut-1.4/)
 ### [NAACL 2022](https://aclanthology.org/events/naacl-2022/) (2022/07/10 ~ 2022/07/15)
 
 
