@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 
 urls = [
+    ("ACL 2023", "https://aclanthology.org/events/acl-2023/", "2023/07/09 ~ 2023/07/14"),
     ("EACL 2023", "https://aclanthology.org/events/eacl-2023/", "2023/05/02 ~ 2023/05/06"),
     ("TACL 2022", "https://aclanthology.org/events/tacl-2022/", None),
     ("CoNLL 2022", "https://aclanthology.org/events/conll-2022/", "2022/12/07 ~ 2022/12/08"),
