@@ -173,6 +173,7 @@
 - [Biomedical Entity Linking for Dutch: Fine-tuning a Self-alignment BERT Model on an Automatically Generated Wikipedia Corpus](https://aclanthology.org/2024.cl4health-1.31/)
 - [Towards Semantic Interoperability: Parallel Corpora as Linked Data Incorporating Named Entity Linking](https://aclanthology.org/2024.ldl-1.15/)
 - [The dbpedia R Package: An Integrated Workflow for Entity Linking (for ParlaMint Corpora)](https://aclanthology.org/2024.parlaclarin-1.20/)
+- [Biomedical Concept Normalization over Nested Entities with Partial UMLS Terminology in Russian](https://aclanthology.org/2024.lrec-main.213/)
 
 #### Entity Typing
 
