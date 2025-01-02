@@ -4,6 +4,8 @@ from tqdm import tqdm
 
 urls = [
     ("TACL 2024", "https://aclanthology.org/events/tacl-2024/", None),
+    ("CoNLL 2024", "https://aclanthology.org/events/conll-2024/", "2024/11/15 ~ 2024/11/16"),
+    ("EMNLP 2024", "https://aclanthology.org/events/emnlp-2024/", "2024/11/12 ~ 2024/11/16"),
     ("ACL 2024", "https://aclanthology.org/events/acl-2024/", "2024/08/11 ~ 2024/08/16"),
     ("NAACL 2024", "https://aclanthology.org/events/naacl-2024/", "2024/06/16 ~ 2024/06/21"),
     ("LREC-COLING 2024", "https://aclanthology.org/events/coling-2024/", "2024/05/20 ~ 2024/05/25"),
